@@ -1,0 +1,2717 @@
+DIGEST cca35519b226048d4c9f45c380abbfe1
+FLF.IndProp
+R121:125 LF.Logic <> <> lib
+R152:154 Coq.micromega.Lia <> <> lib
+ind 3696:3697 <> ev
+constr 3718:3721 <> ev_0
+constr 3732:3736 <> ev_SS
+R3704:3707 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R3701:3703 Coq.Init.Datatypes <> nat ind
+R3725:3726 LF.IndProp <> ev:1 ind
+R3743:3745 Coq.Init.Datatypes <> nat ind
+binder 3739:3739 <> n:3
+R3753:3754 LF.IndProp <> ev:1 ind
+R3756:3756 LF.IndProp <> n:3 var
+binder 3749:3749 <> H:4
+R3761:3762 LF.IndProp <> ev:1 ind
+R3765:3765 Coq.Init.Datatypes <> S constr
+R3768:3768 Coq.Init.Datatypes <> S constr
+R3770:3770 LF.IndProp <> n:3 var
+ind 4945:4952 <> wrong_ev
+constr 4976:4985 <> wrong_ev_0
+constr 5002:5012 <> wrong_ev_SS
+R4959:4961 Coq.Init.Datatypes <> nat ind
+binder 4955:4955 <> n:5
+R4989:4996 LF.IndProp <> wrong_ev:6 ind
+prf 5936:5939 <> ev_4
+R5943:5944 LF.IndProp <> ev ind
+R5962:5966 LF.IndProp <> ev_SS constr
+R5962:5966 LF.IndProp <> ev_SS constr
+R5975:5979 LF.IndProp <> ev_SS constr
+R5975:5979 LF.IndProp <> ev_SS constr
+R5988:5991 LF.IndProp <> ev_0 constr
+R5988:5991 LF.IndProp <> ev_0 constr
+prf 6063:6067 <> ev_4'
+R6071:6072 LF.IndProp <> ev ind
+R6091:6095 LF.IndProp <> ev_SS constr
+R6100:6104 LF.IndProp <> ev_SS constr
+R6108:6111 LF.IndProp <> ev_0 constr
+R6091:6095 LF.IndProp <> ev_SS constr
+R6100:6104 LF.IndProp <> ev_SS constr
+R6108:6111 LF.IndProp <> ev_0 constr
+prf 6202:6209 <> ev_plus4
+binder 6220:6220 <> n:8
+R6227:6230 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6223:6224 LF.IndProp <> ev ind
+R6226:6226 LF.IndProp <> n:8 var
+R6231:6232 LF.IndProp <> ev ind
+R6236:6238 LF.Basics <> ::nat_scope:x_'+'_x not
+R6239:6239 LF.IndProp <> n:8 var
+R6288:6292 LF.IndProp <> ev_SS constr
+R6288:6292 LF.IndProp <> ev_SS constr
+R6301:6305 LF.IndProp <> ev_SS constr
+R6301:6305 LF.IndProp <> ev_SS constr
+prf 6384:6392 <> ev_double
+binder 6403:6403 <> n:9
+R6408:6409 LF.IndProp <> ev ind
+R6412:6417 LF.Induction <> double def
+R6419:6419 LF.IndProp <> n:9 var
+R6508:6511 LF.IndProp <> ev_0 constr
+R6508:6511 LF.IndProp <> ev_0 constr
+R6531:6535 LF.IndProp <> ev_SS constr
+R6531:6535 LF.IndProp <> ev_SS constr
+prf 8344:8355 <> ev_inversion
+R8373:8375 Coq.Init.Datatypes <> nat ind
+binder 8369:8369 <> n:10
+R8383:8390 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R8379:8380 LF.IndProp <> ev ind
+R8382:8382 LF.IndProp <> n:10 var
+R8391:8391 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R8397:8402 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R8435:8435 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R8393:8395 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R8392:8392 LF.IndProp <> n:10 var
+R8403:8409 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+R8412:8413 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+binder 8410:8411 <> n':11
+R8426:8429 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R8415:8417 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R8414:8414 LF.IndProp <> n:10 var
+R8418:8418 Coq.Init.Datatypes <> S constr
+R8421:8421 Coq.Init.Datatypes <> S constr
+R8423:8424 LF.IndProp <> n':11 var
+R8430:8431 LF.IndProp <> ev ind
+R8433:8434 LF.IndProp <> n':11 var
+prf 8736:8744 <> ev_minus2
+binder 8755:8755 <> n:12
+R8764:8767 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R8760:8761 LF.IndProp <> ev ind
+R8763:8763 LF.IndProp <> n:12 var
+R8768:8769 LF.IndProp <> ev ind
+R8772:8775 Coq.Init.Peano <> pred syndef
+R8778:8781 Coq.Init.Peano <> pred syndef
+R8783:8783 LF.IndProp <> n:12 var
+R8875:8878 LF.IndProp <> ev_0 constr
+R8875:8878 LF.IndProp <> ev_0 constr
+prf 9021:9027 <> evSS_ev
+binder 9038:9038 <> n:13
+R9055:9058 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9043:9044 LF.IndProp <> ev ind
+R9047:9047 Coq.Init.Datatypes <> S constr
+R9050:9050 Coq.Init.Datatypes <> S constr
+R9052:9052 LF.IndProp <> n:13 var
+R9059:9060 LF.IndProp <> ev ind
+R9062:9062 LF.IndProp <> n:13 var
+prf 10244:10259 <> evSS_ev_remember
+binder 10270:10270 <> n:14
+R10287:10290 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10275:10276 LF.IndProp <> ev ind
+R10279:10279 Coq.Init.Datatypes <> S constr
+R10282:10282 Coq.Init.Datatypes <> S constr
+R10284:10284 LF.IndProp <> n:14 var
+R10291:10292 LF.IndProp <> ev ind
+R10294:10294 LF.IndProp <> n:14 var
+R10328:10328 Coq.Init.Datatypes <> S constr
+R10331:10331 Coq.Init.Datatypes <> S constr
+R10328:10328 Coq.Init.Datatypes <> S constr
+R10331:10331 Coq.Init.Datatypes <> S constr
+prf 10842:10848 <> evSS_ev
+binder 10859:10859 <> n:15
+R10874:10877 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10862:10863 LF.IndProp <> ev ind
+R10866:10866 Coq.Init.Datatypes <> S constr
+R10869:10869 Coq.Init.Datatypes <> S constr
+R10871:10871 LF.IndProp <> n:15 var
+R10878:10879 LF.IndProp <> ev ind
+R10881:10881 LF.IndProp <> n:15 var
+R10910:10921 LF.IndProp <> ev_inversion thm
+R10910:10921 LF.IndProp <> ev_inversion thm
+prf 11710:11717 <> evSS_ev'
+binder 11728:11728 <> n:16
+R11745:11748 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11733:11734 LF.IndProp <> ev ind
+R11737:11737 Coq.Init.Datatypes <> S constr
+R11740:11740 Coq.Init.Datatypes <> S constr
+R11742:11742 LF.IndProp <> n:16 var
+R11749:11750 LF.IndProp <> ev ind
+R11752:11752 LF.IndProp <> n:16 var
+prf 12123:12134 <> one_not_even
+R12138:12139 Coq.Init.Logic <> ::type_scope:'~'_x not
+R12140:12141 LF.IndProp <> ev ind
+R12171:12182 LF.IndProp <> ev_inversion thm
+R12171:12182 LF.IndProp <> ev_inversion thm
+prf 12278:12290 <> one_not_even'
+R12294:12295 Coq.Init.Logic <> ::type_scope:'~'_x not
+R12296:12297 LF.IndProp <> ev ind
+prf 12536:12547 <> SSSSev__even
+binder 12558:12558 <> n:17
+R12583:12586 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R12563:12564 LF.IndProp <> ev ind
+R12567:12567 Coq.Init.Datatypes <> S constr
+R12570:12570 Coq.Init.Datatypes <> S constr
+R12573:12573 Coq.Init.Datatypes <> S constr
+R12576:12576 Coq.Init.Datatypes <> S constr
+R12578:12578 LF.IndProp <> n:17 var
+R12587:12588 LF.IndProp <> ev ind
+R12590:12590 LF.IndProp <> n:17 var
+prf 12814:12825 <> ev5_nonsense
+R12835:12838 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R12831:12832 LF.IndProp <> ev ind
+R12844:12846 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R12840:12842 LF.Basics <> ::nat_scope:x_'+'_x not
+prf 13642:13654 <> inversion_ex1
+R13674:13676 Coq.Init.Datatypes <> nat ind
+binder 13666:13666 <> n:18
+binder 13668:13668 <> m:19
+binder 13670:13670 <> o:20
+R13697:13702 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R13688:13690 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R13682:13682 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R13684:13685 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R13687:13687 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R13683:13683 LF.IndProp <> n:18 var
+R13686:13686 LF.IndProp <> m:19 var
+R13691:13691 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R13693:13694 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R13696:13696 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R13692:13692 LF.IndProp <> o:20 var
+R13695:13695 LF.IndProp <> o:20 var
+R13706:13708 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R13703:13703 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R13705:13705 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R13704:13704 LF.IndProp <> n:18 var
+R13709:13709 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R13711:13711 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R13710:13710 LF.IndProp <> m:19 var
+prf 13779:13791 <> inversion_ex2
+R13807:13809 Coq.Init.Datatypes <> nat ind
+binder 13803:13803 <> n:21
+R13822:13827 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R13818:13820 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R13815:13815 Coq.Init.Datatypes <> S constr
+R13817:13817 LF.IndProp <> n:21 var
+R13821:13821 Coq.Init.Datatypes <> O constr
+R13833:13835 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R13829:13831 LF.Basics <> ::nat_scope:x_'+'_x not
+prf 14968:14983 <> ev_even_firsttry
+binder 14994:14994 <> n:22
+R15003:15006 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R14999:15000 LF.IndProp <> ev ind
+R15002:15002 LF.IndProp <> n:22 var
+R15007:15010 LF.Logic <> even def
+R15012:15012 LF.IndProp <> n:22 var
+R18209:18212 LF.Logic <> even def
+prf 18221:18227 <> ev_even
+binder 18238:18238 <> n:23
+R18247:18250 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R18243:18244 LF.IndProp <> ev ind
+R18246:18246 LF.IndProp <> n:23 var
+R18251:18254 LF.Logic <> even def
+R18256:18256 LF.IndProp <> n:23 var
+R18418:18421 LF.Logic <> even def
+R18468:18471 LF.Logic <> even def
+R18498:18498 Coq.Init.Datatypes <> S constr
+R18498:18498 Coq.Init.Datatypes <> S constr
+prf 18894:18904 <> ev_even_iff
+binder 18915:18915 <> n:24
+R18924:18928 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R18920:18921 LF.IndProp <> ev ind
+R18923:18923 LF.IndProp <> n:24 var
+R18929:18932 LF.Logic <> even def
+R18934:18934 LF.IndProp <> n:24 var
+R18982:18988 LF.IndProp <> ev_even thm
+R18982:18988 LF.IndProp <> ev_even thm
+R19011:19014 LF.Logic <> even def
+R19050:19058 LF.IndProp <> ev_double thm
+R19050:19058 LF.IndProp <> ev_double thm
+prf 19500:19505 <> ev_sum
+binder 19516:19516 <> n:25
+binder 19518:19518 <> m:26
+R19525:19528 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R19521:19522 LF.IndProp <> ev ind
+R19524:19524 LF.IndProp <> n:25 var
+R19533:19536 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R19529:19530 LF.IndProp <> ev ind
+R19532:19532 LF.IndProp <> m:26 var
+R19537:19538 LF.IndProp <> ev ind
+R19542:19544 LF.Basics <> ::nat_scope:x_'+'_x not
+R19541:19541 LF.IndProp <> n:25 var
+R19545:19545 LF.IndProp <> m:26 var
+R19671:19675 LF.IndProp <> ev_SS constr
+R19671:19675 LF.IndProp <> ev_SS constr
+ind 19942:19944 <> ev'
+constr 19965:19969 <> ev'_0
+constr 19981:19985 <> ev'_2
+constr 19997:20003 <> ev'_sum
+R19951:19954 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R19948:19950 Coq.Init.Datatypes <> nat ind
+R19973:19975 LF.IndProp <> ev':27 ind
+R19989:19991 LF.IndProp <> ev':27 ind
+binder 20005:20005 <> n:29
+binder 20007:20007 <> m:30
+R20015:20017 LF.IndProp <> ev':27 ind
+R20019:20019 LF.IndProp <> n:29 var
+binder 20010:20011 <> Hn:31
+R20028:20030 LF.IndProp <> ev':27 ind
+R20032:20032 LF.IndProp <> m:30 var
+binder 20023:20024 <> Hm:32
+R20037:20039 LF.IndProp <> ev':27 ind
+R20043:20045 LF.Basics <> ::nat_scope:x_'+'_x not
+R20042:20042 LF.IndProp <> n:29 var
+R20046:20046 LF.IndProp <> m:30 var
+prf 20333:20338 <> ev'_ev
+binder 20349:20349 <> n:33
+R20357:20361 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R20352:20354 LF.IndProp <> ev' ind
+R20356:20356 LF.IndProp <> n:33 var
+R20362:20363 LF.IndProp <> ev ind
+R20365:20365 LF.IndProp <> n:33 var
+prf 20614:20622 <> ev_ev__ev
+binder 20633:20633 <> n:34
+binder 20635:20635 <> m:35
+R20648:20651 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R20640:20641 LF.IndProp <> ev ind
+R20645:20645 LF.Basics <> ::nat_scope:x_'+'_x not
+R20644:20644 LF.IndProp <> n:34 var
+R20646:20646 LF.IndProp <> m:35 var
+R20656:20659 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R20652:20653 LF.IndProp <> ev ind
+R20655:20655 LF.IndProp <> n:34 var
+R20660:20661 LF.IndProp <> ev ind
+R20663:20663 LF.IndProp <> m:35 var
+R20804:20810 LF.IndProp <> evSS_ev thm
+R20804:20810 LF.IndProp <> evSS_ev thm
+prf 21123:21134 <> ev_plus_plus
+binder 21145:21145 <> n:36
+binder 21147:21147 <> m:37
+binder 21149:21149 <> p:38
+R21162:21165 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R21154:21155 LF.IndProp <> ev ind
+R21159:21159 LF.Basics <> ::nat_scope:x_'+'_x not
+R21158:21158 LF.IndProp <> n:36 var
+R21160:21160 LF.IndProp <> m:37 var
+R21174:21177 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R21166:21167 LF.IndProp <> ev ind
+R21171:21171 LF.Basics <> ::nat_scope:x_'+'_x not
+R21170:21170 LF.IndProp <> n:36 var
+R21172:21172 LF.IndProp <> p:38 var
+R21178:21179 LF.IndProp <> ev ind
+R21183:21183 LF.Basics <> ::nat_scope:x_'+'_x not
+R21182:21182 LF.IndProp <> m:37 var
+R21184:21184 LF.IndProp <> p:38 var
+R21253:21254 LF.IndProp <> ev ind
+R21257:21257 LF.Basics <> ::nat_scope:x_'+'_x not
+R21261:21263 LF.Basics <> ::nat_scope:x_'+'_x not
+R21267:21267 LF.Basics <> ::nat_scope:x_'+'_x not
+R21259:21259 LF.Basics <> ::nat_scope:x_'+'_x not
+R21265:21265 LF.Basics <> ::nat_scope:x_'+'_x not
+R21253:21254 LF.IndProp <> ev ind
+R21257:21257 LF.Basics <> ::nat_scope:x_'+'_x not
+R21261:21263 LF.Basics <> ::nat_scope:x_'+'_x not
+R21267:21267 LF.Basics <> ::nat_scope:x_'+'_x not
+R21259:21259 LF.Basics <> ::nat_scope:x_'+'_x not
+R21265:21265 LF.Basics <> ::nat_scope:x_'+'_x not
+R21284:21289 LF.IndProp <> ev_sum thm
+R21284:21289 LF.IndProp <> ev_sum thm
+R21335:21337 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R21325:21328 LF.Basics <> ::nat_scope:x_'+'_x not
+R21334:21334 LF.Basics <> ::nat_scope:x_'+'_x not
+R21321:21323 LF.Basics <> ::nat_scope:x_'+'_x not
+R21330:21332 LF.Basics <> ::nat_scope:x_'+'_x not
+R21338:21338 LF.Basics <> ::nat_scope:x_'+'_x not
+R21344:21348 LF.Basics <> ::nat_scope:x_'+'_x not
+R21354:21354 LF.Basics <> ::nat_scope:x_'+'_x not
+R21340:21342 LF.Basics <> ::nat_scope:x_'+'_x not
+R21350:21352 LF.Basics <> ::nat_scope:x_'+'_x not
+R21335:21337 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R21325:21328 LF.Basics <> ::nat_scope:x_'+'_x not
+R21334:21334 LF.Basics <> ::nat_scope:x_'+'_x not
+R21321:21323 LF.Basics <> ::nat_scope:x_'+'_x not
+R21330:21332 LF.Basics <> ::nat_scope:x_'+'_x not
+R21338:21338 LF.Basics <> ::nat_scope:x_'+'_x not
+R21344:21348 LF.Basics <> ::nat_scope:x_'+'_x not
+R21354:21354 LF.Basics <> ::nat_scope:x_'+'_x not
+R21340:21342 LF.Basics <> ::nat_scope:x_'+'_x not
+R21350:21352 LF.Basics <> ::nat_scope:x_'+'_x not
+R21371:21380 LF.Induction <> plus_assoc thm
+R21371:21380 LF.Induction <> plus_assoc thm
+R21371:21380 LF.Induction <> plus_assoc thm
+R21392:21401 LF.Induction <> plus_assoc thm
+R21392:21401 LF.Induction <> plus_assoc thm
+R21392:21401 LF.Induction <> plus_assoc thm
+R21427:21427 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R21425:21425 LF.Basics <> ::nat_scope:x_'+'_x not
+R21423:21423 LF.Basics <> ::nat_scope:x_'+'_x not
+R21431:21431 LF.Basics <> ::nat_scope:x_'+'_x not
+R21429:21429 LF.Basics <> ::nat_scope:x_'+'_x not
+R21427:21427 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R21425:21425 LF.Basics <> ::nat_scope:x_'+'_x not
+R21423:21423 LF.Basics <> ::nat_scope:x_'+'_x not
+R21431:21431 LF.Basics <> ::nat_scope:x_'+'_x not
+R21429:21429 LF.Basics <> ::nat_scope:x_'+'_x not
+R21455:21464 LF.Induction <> plus_assoc thm
+R21455:21464 LF.Induction <> plus_assoc thm
+R21455:21464 LF.Induction <> plus_assoc thm
+R21487:21496 LF.Induction <> plus_assoc thm
+R21487:21496 LF.Induction <> plus_assoc thm
+R21487:21496 LF.Induction <> plus_assoc thm
+R21523:21523 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R21521:21521 LF.Basics <> ::nat_scope:x_'+'_x not
+R21525:21525 LF.Basics <> ::nat_scope:x_'+'_x not
+R21523:21523 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R21521:21521 LF.Basics <> ::nat_scope:x_'+'_x not
+R21525:21525 LF.Basics <> ::nat_scope:x_'+'_x not
+R21538:21546 LF.Induction <> plus_comm thm
+R21538:21546 LF.Induction <> plus_comm thm
+R21674:21674 LF.Basics <> ::nat_scope:x_'+'_x not
+R21653:21661 LF.IndProp <> ev_ev__ev thm
+R21674:21674 LF.Basics <> ::nat_scope:x_'+'_x not
+R21653:21661 LF.IndProp <> ev_ev__ev thm
+R21703:21713 LF.Induction <> double_plus thm
+R21703:21713 LF.Induction <> double_plus thm
+R21703:21713 LF.Induction <> double_plus thm
+R21722:21730 LF.IndProp <> ev_double thm
+R21722:21730 LF.IndProp <> ev_double thm
+mod 22227:22236 <> Playground
+ind 22710:22711 Playground le
+constr 22741:22744 Playground le_n
+constr 22784:22787 Playground le_S
+R22718:22721 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R22715:22717 Coq.Init.Datatypes <> nat ind
+R22725:22728 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R22722:22724 Coq.Init.Datatypes <> nat ind
+R22751:22753 Coq.Init.Datatypes <> nat ind
+binder 22747:22747 <> n:41
+R22773:22774 LF.IndProp <> le:39 ind
+R22778:22778 LF.IndProp <> n:41 var
+R22776:22776 LF.IndProp <> n:41 var
+R22796:22798 Coq.Init.Datatypes <> nat ind
+binder 22790:22790 <> n:42
+binder 22792:22792 <> m:43
+R22806:22807 LF.IndProp <> le:39 ind
+R22811:22811 LF.IndProp <> m:43 var
+R22809:22809 LF.IndProp <> n:42 var
+binder 22802:22802 <> H:44
+R22816:22817 LF.IndProp <> le:39 ind
+R22822:22822 Coq.Init.Datatypes <> S constr
+R22824:22824 LF.IndProp <> m:43 var
+R22819:22819 LF.IndProp <> n:42 var
+R22851:22852 LF.IndProp Playground le ind
+not 22838:22838 Playground :::x_'<='_x
+ind 22871:22873 Playground lt'
+constr 22903:22906 Playground lt_n
+constr 22951:22954 Playground lt_S
+R22880:22883 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R22877:22879 Coq.Init.Datatypes <> nat ind
+R22887:22890 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R22884:22886 Coq.Init.Datatypes <> nat ind
+R22913:22915 Coq.Init.Datatypes <> nat ind
+binder 22909:22909 <> n:47
+R22935:22937 LF.IndProp <> lt':45 ind
+R22942:22942 Coq.Init.Datatypes <> S constr
+R22944:22944 LF.IndProp <> n:47 var
+R22939:22939 LF.IndProp <> n:47 var
+R22963:22965 Coq.Init.Datatypes <> nat ind
+binder 22957:22957 <> n:48
+binder 22959:22959 <> m:49
+R22973:22975 LF.IndProp <> lt':45 ind
+R22979:22979 LF.IndProp <> m:49 var
+R22977:22977 LF.IndProp <> n:48 var
+binder 22969:22969 <> H:50
+R22984:22986 LF.IndProp <> lt':45 ind
+R22991:22991 Coq.Init.Datatypes <> S constr
+R22993:22993 LF.IndProp <> m:49 var
+R22988:22988 LF.IndProp <> n:48 var
+def 23006:23013 Playground test_lt'
+R23016:23018 LF.IndProp Playground lt' ind
+R23038:23041 LF.IndProp Playground lt_S constr
+R23038:23041 LF.IndProp Playground lt_S constr
+R23050:23053 LF.IndProp Playground lt_S constr
+R23050:23053 LF.IndProp Playground lt_S constr
+R23062:23065 LF.IndProp Playground lt_S constr
+R23062:23065 LF.IndProp Playground lt_S constr
+R23074:23077 LF.IndProp Playground lt_n constr
+R23074:23077 LF.IndProp Playground lt_n constr
+prf 23874:23881 Playground test_le1
+R23888:23891 LF.IndProp Playground :::x_'<='_x not
+R23934:23937 LF.IndProp Playground le_n constr
+R23934:23937 LF.IndProp Playground le_n constr
+prf 23955:23962 Playground test_le2
+R23969:23972 LF.IndProp Playground :::x_'<='_x not
+R24015:24018 LF.IndProp Playground le_S constr
+R24015:24018 LF.IndProp Playground le_S constr
+R24027:24030 LF.IndProp Playground le_S constr
+R24027:24030 LF.IndProp Playground le_S constr
+R24039:24042 LF.IndProp Playground le_S constr
+R24039:24042 LF.IndProp Playground le_S constr
+R24051:24054 LF.IndProp Playground le_n constr
+R24051:24054 LF.IndProp Playground le_n constr
+prf 24072:24079 Playground test_le3
+R24085:24085 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R24092:24096 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R24087:24090 LF.IndProp Playground :::x_'<='_x not
+R24102:24104 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R24098:24100 LF.Basics <> ::nat_scope:x_'+'_x not
+def 24287:24288 Playground lt
+R24295:24297 Coq.Init.Datatypes <> nat ind
+binder 24291:24291 <> n:51
+binder 24293:24293 <> m:52
+R24303:24304 LF.IndProp Playground le ind
+R24307:24307 Coq.Init.Datatypes <> S constr
+R24309:24309 LF.IndProp <> n:51 var
+R24312:24312 LF.IndProp <> m:52 var
+R24337:24338 LF.IndProp Playground lt def
+not 24325:24325 Playground :::x_'<'_x
+R24351:24360 LF.IndProp Playground <> mod
+ind 24700:24708 <> square_of
+constr 24738:24739 <> sq
+R24715:24718 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R24712:24714 Coq.Init.Datatypes <> nat ind
+R24722:24725 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R24719:24721 Coq.Init.Datatypes <> nat ind
+binder 24741:24741 <> n:55
+R24745:24753 LF.IndProp <> square_of:53 ind
+R24759:24761 LF.Basics <> ::nat_scope:x_'*'_x not
+R24758:24758 LF.IndProp <> n:55 var
+R24762:24762 LF.IndProp <> n:55 var
+R24755:24755 LF.IndProp <> n:55 var
+ind 24777:24784 <> next_nat
+constr 24814:24815 <> nn
+R24791:24794 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R24788:24790 Coq.Init.Datatypes <> nat ind
+R24798:24801 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R24795:24797 Coq.Init.Datatypes <> nat ind
+binder 24817:24817 <> n:58
+R24821:24828 LF.IndProp <> next_nat:56 ind
+R24833:24833 Coq.Init.Datatypes <> S constr
+R24835:24835 LF.IndProp <> n:58 var
+R24830:24830 LF.IndProp <> n:58 var
+ind 24850:24856 <> next_ev
+constr 24886:24889 <> ne_1
+constr 24933:24936 <> ne_2
+R24863:24866 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R24860:24862 Coq.Init.Datatypes <> nat ind
+R24870:24873 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R24867:24869 Coq.Init.Datatypes <> nat ind
+binder 24891:24891 <> n:61
+R24897:24898 LF.IndProp <> ev ind
+R24901:24901 Coq.Init.Datatypes <> S constr
+R24903:24903 LF.IndProp <> n:61 var
+binder 24894:24894 <> H:62
+R24913:24919 LF.IndProp <> next_ev:59 ind
+R24924:24924 Coq.Init.Datatypes <> S constr
+R24926:24926 LF.IndProp <> n:61 var
+R24921:24921 LF.IndProp <> n:61 var
+binder 24938:24938 <> n:63
+R24944:24945 LF.IndProp <> ev ind
+R24948:24948 Coq.Init.Datatypes <> S constr
+R24951:24951 Coq.Init.Datatypes <> S constr
+R24953:24953 LF.IndProp <> n:63 var
+binder 24941:24941 <> H:64
+R24960:24966 LF.IndProp <> next_ev:59 ind
+R24971:24971 Coq.Init.Datatypes <> S constr
+R24974:24974 Coq.Init.Datatypes <> S constr
+R24976:24976 LF.IndProp <> n:63 var
+R24968:24968 LF.IndProp <> n:63 var
+ind 25200:25213 <> total_relation
+constr 25243:25244 <> tr
+R25220:25223 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R25217:25219 Coq.Init.Datatypes <> nat ind
+R25227:25230 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R25224:25226 Coq.Init.Datatypes <> nat ind
+binder 25246:25246 <> n:67
+binder 25248:25248 <> m:68
+R25252:25265 LF.IndProp <> total_relation:65 ind
+R25269:25269 LF.IndProp <> m:68 var
+R25267:25267 LF.IndProp <> n:67 var
+def 25282:25292 <> test_total1
+R25296:25309 LF.IndProp <> total_relation ind
+R25331:25332 LF.IndProp <> tr constr
+R25331:25332 LF.IndProp <> tr constr
+ind 25540:25553 <> empty_relation
+constr 25583:25585 <> emp
+R25560:25563 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R25557:25559 Coq.Init.Datatypes <> nat ind
+R25567:25570 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R25564:25566 Coq.Init.Datatypes <> nat ind
+binder 25587:25587 <> n:71
+binder 25589:25589 <> m:72
+R25598:25601 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R25593:25597 Coq.Init.Logic <> False ind
+R25602:25615 LF.IndProp <> empty_relation:69 ind
+R25619:25619 LF.IndProp <> m:72 var
+R25617:25617 LF.IndProp <> n:71 var
+def 25631:25638 <> test_er1
+R25642:25643 Coq.Init.Logic <> ::type_scope:'~'_x not
+R25644:25657 LF.IndProp <> empty_relation ind
+ind 25719:25733 <> empty_relation'
+R25740:25743 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R25737:25739 Coq.Init.Datatypes <> nat ind
+R25747:25750 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R25744:25746 Coq.Init.Datatypes <> nat ind
+def 25771:25778 <> test_er2
+R25782:25783 Coq.Init.Logic <> ::type_scope:'~'_x not
+R25784:25797 LF.IndProp <> empty_relation ind
+prf 26807:26814 <> le_trans
+binder 26825:26825 <> m:75
+binder 26827:26827 <> n:76
+binder 26829:26829 <> o:77
+R26838:26841 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R26833:26836 Coq.Init.Peano <> ::nat_scope:x_'<='_x not
+R26832:26832 LF.IndProp <> m:75 var
+R26837:26837 LF.IndProp <> n:76 var
+R26848:26851 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R26843:26846 Coq.Init.Peano <> ::nat_scope:x_'<='_x not
+R26842:26842 LF.IndProp <> n:76 var
+R26847:26847 LF.IndProp <> o:77 var
+R26853:26856 Coq.Init.Peano <> ::nat_scope:x_'<='_x not
+R26852:26852 LF.IndProp <> m:75 var
+R26857:26857 LF.IndProp <> o:77 var
+R26971:26974 Coq.Init.Peano <> le_S constr
+R26971:26974 Coq.Init.Peano <> le_S constr
+prf 27003:27008 <> O_le_n
+binder 27019:27019 <> n:78
+R27025:27028 Coq.Init.Peano <> ::nat_scope:x_'<='_x not
+R27029:27029 LF.IndProp <> n:78 var
+R27109:27112 Coq.Init.Peano <> le_n constr
+R27109:27112 Coq.Init.Peano <> le_n constr
+R27125:27128 Coq.Init.Peano <> le_S constr
+R27125:27128 Coq.Init.Peano <> le_S constr
+prf 27157:27172 <> n_le_m__Sn_le_Sm
+binder 27183:27183 <> n:79
+binder 27185:27185 <> m:80
+R27196:27199 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R27191:27194 Coq.Init.Peano <> ::nat_scope:x_'<='_x not
+R27190:27190 LF.IndProp <> n:79 var
+R27195:27195 LF.IndProp <> m:80 var
+R27203:27206 Coq.Init.Peano <> ::nat_scope:x_'<='_x not
+R27200:27200 Coq.Init.Datatypes <> S constr
+R27202:27202 LF.IndProp <> n:79 var
+R27207:27207 Coq.Init.Datatypes <> S constr
+R27209:27209 LF.IndProp <> m:80 var
+R27297:27300 Coq.Init.Peano <> le_n constr
+R27297:27300 Coq.Init.Peano <> le_n constr
+R27314:27317 Coq.Init.Peano <> le_S constr
+R27314:27317 Coq.Init.Peano <> le_S constr
+prf 27345:27360 <> Sn_le_Sm__n_le_m
+binder 27371:27371 <> n:81
+binder 27373:27373 <> m:82
+R27388:27391 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R27381:27384 Coq.Init.Peano <> ::nat_scope:x_'<='_x not
+R27378:27378 Coq.Init.Datatypes <> S constr
+R27380:27380 LF.IndProp <> n:81 var
+R27385:27385 Coq.Init.Datatypes <> S constr
+R27387:27387 LF.IndProp <> m:82 var
+R27393:27396 Coq.Init.Peano <> ::nat_scope:x_'<='_x not
+R27392:27392 LF.IndProp <> n:81 var
+R27397:27397 LF.IndProp <> m:82 var
+R27484:27489 LF.IndProp <> O_le_n thm
+R27484:27489 LF.IndProp <> O_le_n thm
+R27535:27538 Coq.Init.Peano <> le_n constr
+R27535:27538 Coq.Init.Peano <> le_n constr
+R27572:27572 Coq.Init.Datatypes <> S constr
+R27575:27575 Coq.Init.Datatypes <> S constr
+R27553:27560 LF.IndProp <> le_trans thm
+R27572:27572 Coq.Init.Datatypes <> S constr
+R27575:27575 Coq.Init.Datatypes <> S constr
+R27553:27560 LF.IndProp <> le_trans thm
+R27597:27600 Coq.Init.Peano <> le_S constr
+R27597:27600 Coq.Init.Peano <> le_S constr
+R27609:27612 Coq.Init.Peano <> le_n constr
+R27609:27612 Coq.Init.Peano <> le_n constr
+prf 27647:27655 <> le_plus_l
+binder 27666:27666 <> a:83
+binder 27668:27668 <> b:84
+R27674:27677 Coq.Init.Peano <> ::nat_scope:x_'<='_x not
+R27673:27673 LF.IndProp <> a:83 var
+R27679:27681 LF.Basics <> ::nat_scope:x_'+'_x not
+R27678:27678 LF.IndProp <> a:83 var
+R27682:27682 LF.IndProp <> b:84 var
+R27773:27778 LF.IndProp <> O_le_n thm
+R27773:27778 LF.IndProp <> O_le_n thm
+R27798:27813 LF.IndProp <> n_le_m__Sn_le_Sm thm
+R27798:27813 LF.IndProp <> n_le_m__Sn_le_Sm thm
+prf 27842:27848 <> plus_le
+binder 27859:27860 <> n1:85
+binder 27862:27863 <> n2:86
+binder 27865:27865 <> m:87
+R27882:27887 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R27877:27880 Coq.Init.Peano <> ::nat_scope:x_'<='_x not
+R27872:27874 LF.Basics <> ::nat_scope:x_'+'_x not
+R27870:27871 LF.IndProp <> n1:85 var
+R27875:27876 LF.IndProp <> n2:86 var
+R27881:27881 LF.IndProp <> m:87 var
+R27895:27898 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R27890:27893 Coq.Init.Peano <> ::nat_scope:x_'<='_x not
+R27888:27889 LF.IndProp <> n1:85 var
+R27894:27894 LF.IndProp <> m:87 var
+R27901:27904 Coq.Init.Peano <> ::nat_scope:x_'<='_x not
+R27899:27900 LF.IndProp <> n2:86 var
+R27905:27905 LF.IndProp <> m:87 var
+R27984:27988 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R27973:27976 Coq.Init.Peano <> ::nat_scope:x_'<='_x not
+R27979:27981 LF.Basics <> ::nat_scope:x_'+'_x not
+R27991:27994 Coq.Init.Peano <> ::nat_scope:x_'<='_x not
+R27997:27999 LF.Basics <> ::nat_scope:x_'+'_x not
+R27984:27988 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R27973:27976 Coq.Init.Peano <> ::nat_scope:x_'<='_x not
+R27979:27981 LF.Basics <> ::nat_scope:x_'+'_x not
+R27991:27994 Coq.Init.Peano <> ::nat_scope:x_'<='_x not
+R27997:27999 LF.Basics <> ::nat_scope:x_'+'_x not
+R28028:28036 LF.IndProp <> le_plus_l thm
+R28028:28036 LF.IndProp <> le_plus_l thm
+R28053:28061 LF.Induction <> plus_comm thm
+R28053:28061 LF.Induction <> plus_comm thm
+R28053:28061 LF.Induction <> plus_comm thm
+R28070:28078 LF.IndProp <> le_plus_l thm
+R28070:28078 LF.IndProp <> le_plus_l thm
+R28149:28149 LF.Basics <> ::nat_scope:x_'+'_x not
+R28128:28135 LF.IndProp <> le_trans thm
+R28149:28149 LF.Basics <> ::nat_scope:x_'+'_x not
+R28128:28135 LF.IndProp <> le_trans thm
+R28207:28207 LF.Basics <> ::nat_scope:x_'+'_x not
+R28186:28193 LF.IndProp <> le_trans thm
+R28207:28207 LF.Basics <> ::nat_scope:x_'+'_x not
+R28186:28193 LF.IndProp <> le_trans thm
+prf 28340:28351 <> add_le_cases
+binder 28362:28362 <> n:88
+binder 28364:28364 <> m:89
+binder 28366:28366 <> p:90
+binder 28368:28368 <> q:91
+R28389:28392 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R28380:28383 Coq.Init.Peano <> ::nat_scope:x_'<='_x not
+R28376:28378 LF.Basics <> ::nat_scope:x_'+'_x not
+R28375:28375 LF.IndProp <> n:88 var
+R28379:28379 LF.IndProp <> m:89 var
+R28385:28387 LF.Basics <> ::nat_scope:x_'+'_x not
+R28384:28384 LF.IndProp <> p:90 var
+R28388:28388 LF.IndProp <> q:91 var
+R28399:28402 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R28394:28397 Coq.Init.Peano <> ::nat_scope:x_'<='_x not
+R28393:28393 LF.IndProp <> n:88 var
+R28398:28398 LF.IndProp <> p:90 var
+R28404:28407 Coq.Init.Peano <> ::nat_scope:x_'<='_x not
+R28403:28403 LF.IndProp <> m:89 var
+R28408:28408 LF.IndProp <> q:91 var
+R28480:28485 LF.IndProp <> O_le_n thm
+R28480:28485 LF.IndProp <> O_le_n thm
+R28514:28519 LF.IndProp <> O_le_n thm
+R28514:28519 LF.IndProp <> O_le_n thm
+R28553:28559 LF.IndProp <> plus_le thm
+R28553:28559 LF.IndProp <> plus_le thm
+R28640:28655 LF.IndProp <> Sn_le_Sm__n_le_m thm
+R28640:28655 LF.IndProp <> Sn_le_Sm__n_le_m thm
+R28724:28739 LF.IndProp <> n_le_m__Sn_le_Sm thm
+R28724:28739 LF.IndProp <> n_le_m__Sn_le_Sm thm
+prf 28788:28792 <> lt_S'
+binder 28803:28803 <> n:92
+binder 28805:28805 <> m:93
+R28815:28820 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R28811:28813 Coq.Init.Peano <> ::nat_scope:x_'<'_x not
+R28810:28810 LF.IndProp <> n:92 var
+R28814:28814 LF.IndProp <> m:93 var
+R28822:28824 Coq.Init.Peano <> ::nat_scope:x_'<'_x not
+R28821:28821 LF.IndProp <> n:92 var
+R28825:28825 Coq.Init.Datatypes <> S constr
+R28827:28827 LF.IndProp <> m:93 var
+R28883:28890 LF.IndProp <> le_trans thm
+R28883:28890 LF.IndProp <> le_trans thm
+R28929:28932 Coq.Init.Peano <> le_S constr
+R28929:28932 Coq.Init.Peano <> le_S constr
+R28941:28944 Coq.Init.Peano <> le_n constr
+R28941:28944 Coq.Init.Peano <> le_n constr
+prf 28961:28967 <> plus_lt
+binder 28978:28979 <> n1:94
+binder 28981:28982 <> n2:95
+binder 28984:28984 <> m:96
+R29000:29005 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R28996:28998 Coq.Init.Peano <> ::nat_scope:x_'<'_x not
+R28991:28993 LF.Basics <> ::nat_scope:x_'+'_x not
+R28989:28990 LF.IndProp <> n1:94 var
+R28994:28995 LF.IndProp <> n2:95 var
+R28999:28999 LF.IndProp <> m:96 var
+R29012:29015 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R29008:29010 Coq.Init.Peano <> ::nat_scope:x_'<'_x not
+R29006:29007 LF.IndProp <> n1:94 var
+R29011:29011 LF.IndProp <> m:96 var
+R29018:29020 Coq.Init.Peano <> ::nat_scope:x_'<'_x not
+R29016:29017 LF.IndProp <> n2:95 var
+R29021:29021 LF.IndProp <> m:96 var
+R29105:29108 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R29090:29093 Coq.Init.Peano <> ::nat_scope:x_'<='_x not
+R29086:29086 Coq.Init.Datatypes <> S constr
+R29094:29094 Coq.Init.Datatypes <> S constr
+R29099:29101 LF.Basics <> ::nat_scope:x_'+'_x not
+R29113:29116 Coq.Init.Peano <> ::nat_scope:x_'<='_x not
+R29109:29109 Coq.Init.Datatypes <> S constr
+R29117:29117 Coq.Init.Datatypes <> S constr
+R29122:29124 LF.Basics <> ::nat_scope:x_'+'_x not
+R29105:29108 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R29090:29093 Coq.Init.Peano <> ::nat_scope:x_'<='_x not
+R29086:29086 Coq.Init.Datatypes <> S constr
+R29094:29094 Coq.Init.Datatypes <> S constr
+R29099:29101 LF.Basics <> ::nat_scope:x_'+'_x not
+R29113:29116 Coq.Init.Peano <> ::nat_scope:x_'<='_x not
+R29109:29109 Coq.Init.Datatypes <> S constr
+R29117:29117 Coq.Init.Datatypes <> S constr
+R29122:29124 LF.Basics <> ::nat_scope:x_'+'_x not
+R29150:29165 LF.IndProp <> n_le_m__Sn_le_Sm thm
+R29150:29165 LF.IndProp <> n_le_m__Sn_le_Sm thm
+R29174:29182 LF.IndProp <> le_plus_l thm
+R29174:29182 LF.IndProp <> le_plus_l thm
+R29195:29210 LF.IndProp <> n_le_m__Sn_le_Sm thm
+R29195:29210 LF.IndProp <> n_le_m__Sn_le_Sm thm
+R29221:29229 LF.Induction <> plus_comm thm
+R29221:29229 LF.Induction <> plus_comm thm
+R29221:29229 LF.Induction <> plus_comm thm
+R29238:29246 LF.IndProp <> le_plus_l thm
+R29238:29246 LF.IndProp <> le_plus_l thm
+R29315:29315 Coq.Init.Datatypes <> S constr
+R29320:29320 LF.Basics <> ::nat_scope:x_'+'_x not
+R29296:29303 LF.IndProp <> le_trans thm
+R29315:29315 Coq.Init.Datatypes <> S constr
+R29320:29320 LF.Basics <> ::nat_scope:x_'+'_x not
+R29296:29303 LF.IndProp <> le_trans thm
+R29377:29377 Coq.Init.Datatypes <> S constr
+R29382:29382 LF.Basics <> ::nat_scope:x_'+'_x not
+R29358:29365 LF.IndProp <> le_trans thm
+R29377:29377 Coq.Init.Datatypes <> S constr
+R29382:29382 LF.Basics <> ::nat_scope:x_'+'_x not
+R29358:29365 LF.IndProp <> le_trans thm
+prf 29422:29433 <> leb_complete
+binder 29444:29444 <> n:97
+binder 29446:29446 <> m:98
+R29465:29468 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R29458:29460 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R29452:29456 LF.Basics <> ::nat_scope:x_'<=?'_x not
+R29451:29451 LF.IndProp <> n:97 var
+R29457:29457 LF.IndProp <> m:98 var
+R29461:29464 LF.Basics <> true constr
+R29470:29473 Coq.Init.Peano <> ::nat_scope:x_'<='_x not
+R29469:29469 LF.IndProp <> n:97 var
+R29474:29474 LF.IndProp <> m:98 var
+R29542:29545 Coq.Init.Peano <> le_n constr
+R29542:29545 Coq.Init.Peano <> le_n constr
+R29565:29570 LF.IndProp <> O_le_n thm
+R29565:29570 LF.IndProp <> O_le_n thm
+R29618:29633 LF.IndProp <> n_le_m__Sn_le_Sm thm
+R29618:29633 LF.IndProp <> n_le_m__Sn_le_Sm thm
+prf 29758:29768 <> leb_correct
+binder 29779:29779 <> n:99
+binder 29781:29781 <> m:100
+R29792:29797 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R29787:29790 Coq.Init.Peano <> ::nat_scope:x_'<='_x not
+R29786:29786 LF.IndProp <> n:99 var
+R29791:29791 LF.IndProp <> m:100 var
+R29805:29807 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R29799:29803 LF.Basics <> ::nat_scope:x_'<=?'_x not
+R29798:29798 LF.IndProp <> n:99 var
+R29804:29804 LF.IndProp <> m:100 var
+R29808:29811 LF.Basics <> true constr
+R30039:30054 LF.IndProp <> Sn_le_Sm__n_le_m thm
+R30039:30054 LF.IndProp <> Sn_le_Sm__n_le_m thm
+prf 30156:30169 <> leb_true_trans
+binder 30180:30180 <> n:101
+binder 30182:30182 <> m:102
+binder 30184:30184 <> o:103
+R30203:30206 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R30196:30198 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R30190:30194 LF.Basics <> ::nat_scope:x_'<=?'_x not
+R30189:30189 LF.IndProp <> n:101 var
+R30195:30195 LF.IndProp <> m:102 var
+R30199:30202 LF.Basics <> true constr
+R30221:30224 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R30214:30216 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R30208:30212 LF.Basics <> ::nat_scope:x_'<=?'_x not
+R30207:30207 LF.IndProp <> m:102 var
+R30213:30213 LF.IndProp <> o:103 var
+R30217:30220 LF.Basics <> true constr
+R30232:30234 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R30226:30230 LF.Basics <> ::nat_scope:x_'<=?'_x not
+R30225:30225 LF.IndProp <> n:101 var
+R30231:30231 LF.IndProp <> o:103 var
+R30235:30238 LF.Basics <> true constr
+R30302:30312 LF.IndProp <> leb_correct thm
+R30302:30312 LF.IndProp <> leb_correct thm
+R30321:30332 LF.IndProp <> leb_complete thm
+R30321:30332 LF.IndProp <> leb_complete thm
+R30348:30359 LF.IndProp <> leb_complete thm
+R30348:30359 LF.IndProp <> leb_complete thm
+R30377:30384 LF.IndProp <> le_trans thm
+R30377:30384 LF.IndProp <> le_trans thm
+prf 30501:30507 <> leb_iff
+binder 30518:30518 <> n:104
+binder 30520:30520 <> m:105
+R30539:30543 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R30532:30534 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R30526:30530 LF.Basics <> ::nat_scope:x_'<=?'_x not
+R30525:30525 LF.IndProp <> n:104 var
+R30531:30531 LF.IndProp <> m:105 var
+R30535:30538 LF.Basics <> true constr
+R30545:30548 Coq.Init.Peano <> ::nat_scope:x_'<='_x not
+R30544:30544 LF.IndProp <> n:104 var
+R30549:30549 LF.IndProp <> m:105 var
+R30612:30623 LF.IndProp <> leb_complete thm
+R30612:30623 LF.IndProp <> leb_complete thm
+R30636:30646 LF.IndProp <> leb_correct thm
+R30636:30646 LF.IndProp <> leb_correct thm
+mod 30672:30672 <> R
+ind 30953:30953 R R
+constr 30991:30992 R c1
+constr 31009:31010 R c2
+constr 31055:31056 R c3
+constr 31101:31102 R c4
+constr 31155:31156 R c5
+R30960:30963 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R30957:30959 Coq.Init.Datatypes <> nat ind
+R30967:30970 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R30964:30966 Coq.Init.Datatypes <> nat ind
+R30974:30977 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R30971:30973 Coq.Init.Datatypes <> nat ind
+R30996:30996 LF.IndProp <> R:106 ind
+binder 31012:31012 <> m:108
+binder 31014:31014 <> n:109
+binder 31016:31016 <> o:110
+R31023:31023 LF.IndProp <> R:106 ind
+R31029:31029 LF.IndProp <> o:110 var
+R31027:31027 LF.IndProp <> n:109 var
+R31025:31025 LF.IndProp <> m:108 var
+binder 31019:31019 <> H:111
+R31034:31034 LF.IndProp <> R:106 ind
+R31045:31045 Coq.Init.Datatypes <> S constr
+R31047:31047 LF.IndProp <> o:110 var
+R31042:31042 LF.IndProp <> n:109 var
+R31037:31037 Coq.Init.Datatypes <> S constr
+R31039:31039 LF.IndProp <> m:108 var
+binder 31058:31058 <> m:112
+binder 31060:31060 <> n:113
+binder 31062:31062 <> o:114
+R31069:31069 LF.IndProp <> R:106 ind
+R31075:31075 LF.IndProp <> o:114 var
+R31073:31073 LF.IndProp <> n:113 var
+R31071:31071 LF.IndProp <> m:112 var
+binder 31065:31065 <> H:115
+R31080:31080 LF.IndProp <> R:106 ind
+R31091:31091 Coq.Init.Datatypes <> S constr
+R31093:31093 LF.IndProp <> o:114 var
+R31085:31085 Coq.Init.Datatypes <> S constr
+R31087:31087 LF.IndProp <> n:113 var
+R31082:31082 LF.IndProp <> m:112 var
+binder 31104:31104 <> m:116
+binder 31106:31106 <> n:117
+binder 31108:31108 <> o:118
+R31115:31115 LF.IndProp <> R:106 ind
+R31130:31130 Coq.Init.Datatypes <> S constr
+R31133:31133 Coq.Init.Datatypes <> S constr
+R31135:31135 LF.IndProp <> o:118 var
+R31124:31124 Coq.Init.Datatypes <> S constr
+R31126:31126 LF.IndProp <> n:117 var
+R31118:31118 Coq.Init.Datatypes <> S constr
+R31120:31120 LF.IndProp <> m:116 var
+binder 31111:31111 <> H:119
+R31142:31142 LF.IndProp <> R:106 ind
+R31148:31148 LF.IndProp <> o:118 var
+R31146:31146 LF.IndProp <> n:117 var
+R31144:31144 LF.IndProp <> m:116 var
+binder 31158:31158 <> m:120
+binder 31160:31160 <> n:121
+binder 31162:31162 <> o:122
+R31169:31169 LF.IndProp <> R:106 ind
+R31175:31175 LF.IndProp <> o:122 var
+R31173:31173 LF.IndProp <> n:121 var
+R31171:31171 LF.IndProp <> m:120 var
+binder 31165:31165 <> H:123
+R31180:31180 LF.IndProp <> R:106 ind
+R31186:31186 LF.IndProp <> o:122 var
+R31184:31184 LF.IndProp <> m:120 var
+R31182:31182 LF.IndProp <> n:121 var
+ind 31228:31231 R COdd
+constr 31260:31262 R CO1
+constr 31279:31281 R CO2
+R31238:31241 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R31235:31237 Coq.Init.Datatypes <> nat ind
+R31245:31247 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R31242:31244 Coq.Init.Datatypes <> nat ind
+R31266:31269 LF.IndProp <> COdd:124 ind
+binder 31283:31283 <> m:126
+binder 31285:31285 <> n:127
+R31292:31295 LF.IndProp <> COdd:124 ind
+R31299:31299 LF.IndProp <> n:127 var
+R31297:31297 LF.IndProp <> m:126 var
+binder 31288:31288 <> H:128
+R31304:31307 LF.IndProp <> COdd:124 ind
+R31320:31320 Coq.Init.Datatypes <> S constr
+R31323:31323 Coq.Init.Datatypes <> S constr
+R31325:31325 LF.IndProp <> n:127 var
+R31310:31310 Coq.Init.Datatypes <> S constr
+R31313:31313 Coq.Init.Datatypes <> S constr
+R31315:31315 LF.IndProp <> m:126 var
+def 31339:31348 R test_COdd1
+R31352:31355 LF.IndProp R COdd ind
+R31375:31377 LF.IndProp R CO2 constr
+R31375:31377 LF.IndProp R CO2 constr
+R31386:31388 LF.IndProp R CO1 constr
+R31386:31388 LF.IndProp R CO1 constr
+R31403:31412 LF.IndProp R test_COdd1 ex
+R31422:31431 LF.IndProp R test_COdd1 ex
+ind 31445:31448 R Rsum
+constr 31484:31486 R Rs1
+constr 31514:31516 R Rs2
+R31455:31458 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R31452:31454 Coq.Init.Datatypes <> nat ind
+R31462:31465 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R31459:31461 Coq.Init.Datatypes <> nat ind
+R31469:31472 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R31466:31468 Coq.Init.Datatypes <> nat ind
+R31493:31495 Coq.Init.Datatypes <> nat ind
+binder 31489:31489 <> n:131
+R31500:31503 LF.IndProp <> Rsum:129 ind
+R31509:31509 LF.IndProp <> n:131 var
+R31507:31507 LF.IndProp <> n:131 var
+R31527:31529 Coq.Init.Datatypes <> nat ind
+binder 31519:31519 <> n:132
+binder 31521:31521 <> m:133
+binder 31523:31523 <> o:134
+R31537:31540 LF.IndProp <> Rsum:129 ind
+R31546:31546 LF.IndProp <> o:134 var
+R31544:31544 LF.IndProp <> m:133 var
+R31542:31542 LF.IndProp <> n:132 var
+binder 31533:31533 <> H:135
+R31558:31561 LF.IndProp <> Rsum:129 ind
+R31572:31572 Coq.Init.Datatypes <> S constr
+R31574:31574 LF.IndProp <> o:134 var
+R31569:31569 LF.IndProp <> m:133 var
+R31564:31564 Coq.Init.Datatypes <> S constr
+R31566:31566 LF.IndProp <> n:132 var
+def 31587:31595 R test_Rsum
+R31599:31602 LF.IndProp R Rsum ind
+R31625:31627 LF.IndProp R Rs2 constr
+R31636:31638 LF.IndProp R Rs2 constr
+R31647:31649 LF.IndProp R Rs2 constr
+R31658:31660 LF.IndProp R Rs1 constr
+R31625:31627 LF.IndProp R Rs2 constr
+R31636:31638 LF.IndProp R Rs2 constr
+R31647:31649 LF.IndProp R Rs2 constr
+R31658:31660 LF.IndProp R Rs1 constr
+ind 31688:31693 R Rminus
+constr 31730:31731 R R1
+constr 31754:31755 R R2
+R31700:31703 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R31697:31699 Coq.Init.Datatypes <> nat ind
+R31707:31710 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R31704:31706 Coq.Init.Datatypes <> nat ind
+R31714:31717 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R31711:31713 Coq.Init.Datatypes <> nat ind
+binder 31733:31733 <> n:138
+R31737:31742 LF.IndProp <> Rminus:136 ind
+R31748:31748 LF.IndProp <> n:138 var
+R31744:31744 LF.IndProp <> n:138 var
+binder 31757:31757 <> m:139
+binder 31759:31759 <> n:140
+binder 31761:31761 <> o:141
+R31768:31773 LF.IndProp <> Rminus:136 ind
+R31779:31779 LF.IndProp <> o:141 var
+R31777:31777 LF.IndProp <> n:140 var
+R31775:31775 LF.IndProp <> m:139 var
+binder 31764:31764 <> H:142
+R31784:31789 LF.IndProp <> Rminus:136 ind
+R31803:31803 LF.IndProp <> o:141 var
+R31798:31798 Coq.Init.Datatypes <> S constr
+R31800:31800 LF.IndProp <> n:140 var
+R31792:31792 Coq.Init.Datatypes <> S constr
+R31794:31794 LF.IndProp <> m:139 var
+def 31815:31825 R test_Rminus
+R31829:31834 LF.IndProp R Rminus ind
+R31857:31858 LF.IndProp R R2 constr
+R31867:31868 LF.IndProp R R2 constr
+R31877:31878 LF.IndProp R R2 constr
+R31887:31888 LF.IndProp R R1 constr
+R31857:31858 LF.IndProp R R2 constr
+R31867:31868 LF.IndProp R R2 constr
+R31877:31878 LF.IndProp R R2 constr
+R31887:31888 LF.IndProp R R1 constr
+R31910:31920 LF.IndProp R test_Rminus ex
+ind 31934:31940 R Rminus'
+constr 31977:31979 R R1'
+constr 32011:32013 R R2'
+R31947:31950 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R31944:31946 Coq.Init.Datatypes <> nat ind
+R31954:31957 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R31951:31953 Coq.Init.Datatypes <> nat ind
+R31961:31964 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R31958:31960 Coq.Init.Datatypes <> nat ind
+binder 31990:31990 <> n:145
+R31993:31999 LF.IndProp <> Rminus':143 ind
+R32005:32005 LF.IndProp <> n:145 var
+R32001:32001 LF.IndProp <> n:145 var
+binder 32024:32024 <> m:146
+binder 32026:32026 <> n:147
+binder 32028:32028 <> o:148
+R32048:32051 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R32035:32041 LF.IndProp <> Rminus':143 ind
+R32047:32047 LF.IndProp <> o:148 var
+R32045:32045 LF.IndProp <> n:147 var
+R32043:32043 LF.IndProp <> m:146 var
+R32052:32058 LF.IndProp <> Rminus':143 ind
+R32072:32072 LF.IndProp <> o:148 var
+R32067:32067 Coq.Init.Datatypes <> S constr
+R32069:32069 LF.IndProp <> n:147 var
+R32061:32061 Coq.Init.Datatypes <> S constr
+R32063:32063 LF.IndProp <> m:146 var
+def 32084:32095 R test_Rminus'
+R32099:32105 LF.IndProp R Rminus' ind
+R32128:32130 LF.IndProp R R2' constr
+R32139:32141 LF.IndProp R R2' constr
+R32150:32152 LF.IndProp R R2' constr
+R32161:32163 LF.IndProp R R1' constr
+R32128:32130 LF.IndProp R R2' constr
+R32139:32141 LF.IndProp R R2' constr
+R32150:32152 LF.IndProp R R2' constr
+R32161:32163 LF.IndProp R R1' constr
+def 32681:32710 R manual_grade_for_R_provability
+R32714:32719 Coq.Init.Datatypes <> option ind
+R32725:32725 LF.Poly <> ::type_scope:x_'*'_x not
+R32722:32724 Coq.Init.Datatypes <> nat ind
+R32726:32731 Coq.Strings.String <> string ind
+R32737:32740 Coq.Init.Datatypes <> None constr
+def 32973:32974 R fR
+R32981:32984 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R32978:32980 Coq.Init.Datatypes <> nat ind
+R32988:32991 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R32985:32987 Coq.Init.Datatypes <> nat ind
+R32992:32994 Coq.Init.Datatypes <> nat ind
+binder 33061:33061 <> n:149
+binder 33071:33071 <> m:150
+R33077:33079 LF.Basics <> ::nat_scope:x_'+'_x not
+R33076:33076 LF.IndProp <> n:149 var
+R33080:33080 LF.IndProp <> m:150 var
+prf 33091:33093 R R_1
+binder 33104:33104 <> n:151
+R33107:33107 LF.IndProp R R ind
+R33111:33111 LF.IndProp <> n:151 var
+R33113:33113 LF.IndProp <> n:151 var
+R33167:33168 LF.IndProp R c1 constr
+R33167:33168 LF.IndProp R c1 constr
+R33187:33188 LF.IndProp R c3 constr
+R33187:33188 LF.IndProp R c3 constr
+prf 33217:33226 R R_equiv_fR
+binder 33237:33237 <> m:152
+binder 33239:33239 <> n:153
+binder 33241:33241 <> o:154
+R33251:33255 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R33244:33244 LF.IndProp R R ind
+R33246:33246 LF.IndProp <> m:152 var
+R33248:33248 LF.IndProp <> n:153 var
+R33250:33250 LF.IndProp <> o:154 var
+R33262:33264 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R33256:33257 LF.IndProp R fR def
+R33259:33259 LF.IndProp <> m:152 var
+R33261:33261 LF.IndProp <> n:153 var
+R33265:33265 LF.IndProp <> o:154 var
+R33431:33432 LF.IndProp R fR def
+R33446:33454 LF.Induction <> plus_n_Sm thm
+R33446:33454 LF.Induction <> plus_n_Sm thm
+R33446:33454 LF.Induction <> plus_n_Sm thm
+R33483:33484 LF.IndProp R fR def
+R33505:33513 LF.Induction <> plus_n_Sm thm
+R33505:33513 LF.Induction <> plus_n_Sm thm
+R33505:33513 LF.Induction <> plus_n_Sm thm
+R33551:33552 LF.IndProp R fR def
+R33582:33583 LF.IndProp R fR def
+R33593:33594 LF.IndProp R fR def
+R33626:33634 LF.Induction <> plus_comm thm
+R33626:33634 LF.Induction <> plus_comm thm
+R33722:33723 LF.IndProp R c1 constr
+R33722:33723 LF.IndProp R c1 constr
+R33775:33776 LF.IndProp R c3 constr
+R33775:33776 LF.IndProp R c3 constr
+R33785:33787 LF.IndProp R R_1 thm
+R33785:33787 LF.IndProp R R_1 thm
+R33815:33816 LF.IndProp R fR def
+R33832:33840 LF.Induction <> plus_comm thm
+R33832:33840 LF.Induction <> plus_comm thm
+R33832:33840 LF.Induction <> plus_comm thm
+R33886:33887 LF.IndProp R c2 constr
+R33886:33887 LF.IndProp R c2 constr
+R33908:33909 LF.IndProp R fR def
+R33920:33928 LF.Induction <> plus_comm thm
+R33920:33928 LF.Induction <> plus_comm thm
+R33920:33928 LF.Induction <> plus_comm thm
+R33969:33970 LF.IndProp R fR def
+R34010:34011 LF.IndProp R c2 constr
+R34010:34011 LF.IndProp R c2 constr
+R34039:34040 LF.IndProp R fR def
+R34076:34076 LF.IndProp R <> mod
+ind 35260:35265 <> subseq
+constr 35324:35327 <> sub1
+constr 35350:35353 <> sub2
+constr 35408:35411 <> sub3
+R35277:35280 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R35269:35272 LF.Poly <> list ind
+R35274:35276 Coq.Init.Datatypes <> nat ind
+R35289:35292 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R35281:35284 LF.Poly <> list ind
+R35286:35288 Coq.Init.Datatypes <> nat ind
+binder 35329:35329 <> l:157
+R35333:35338 LF.IndProp <> subseq:155 ind
+R35344:35344 LF.IndProp <> l:157 var
+R35340:35342 LF.Poly <> nil constr
+binder 35355:35356 <> l1:158
+binder 35358:35359 <> l2:159
+binder 35361:35361 <> a:160
+R35368:35373 LF.IndProp <> subseq:155 ind
+R35378:35379 LF.IndProp <> l2:159 var
+R35375:35376 LF.IndProp <> l1:158 var
+binder 35364:35364 <> H:161
+R35384:35389 LF.IndProp <> subseq:155 ind
+R35396:35399 LF.Poly <> :::x_'::'_x not
+R35395:35395 LF.IndProp <> a:160 var
+R35400:35401 LF.IndProp <> l2:159 var
+R35391:35392 LF.IndProp <> l1:158 var
+binder 35413:35414 <> l1:162
+binder 35416:35417 <> l2:163
+binder 35419:35419 <> a:164
+R35426:35431 LF.IndProp <> subseq:155 ind
+R35436:35437 LF.IndProp <> l2:163 var
+R35433:35434 LF.IndProp <> l1:162 var
+binder 35422:35422 <> H:165
+R35442:35447 LF.IndProp <> subseq:155 ind
+R35461:35464 LF.Poly <> :::x_'::'_x not
+R35460:35460 LF.IndProp <> a:164 var
+R35465:35466 LF.IndProp <> l2:163 var
+R35451:35454 LF.Poly <> :::x_'::'_x not
+R35450:35450 LF.IndProp <> a:164 var
+R35455:35456 LF.IndProp <> l1:162 var
+prf 35479:35489 <> subseq_refl
+R35505:35508 LF.Poly <> list ind
+R35510:35512 Coq.Init.Datatypes <> nat ind
+binder 35501:35501 <> l:166
+R35516:35521 LF.IndProp <> subseq ind
+R35523:35523 LF.IndProp <> l:166 var
+R35525:35525 LF.IndProp <> l:166 var
+R35598:35601 LF.IndProp <> sub1 constr
+R35598:35601 LF.IndProp <> sub1 constr
+R35614:35617 LF.IndProp <> sub3 constr
+R35614:35617 LF.IndProp <> sub3 constr
+prf 35645:35654 <> subseq_app
+R35677:35680 LF.Poly <> list ind
+R35682:35684 Coq.Init.Datatypes <> nat ind
+binder 35666:35667 <> l1:167
+binder 35669:35670 <> l2:168
+binder 35672:35673 <> l3:169
+R35702:35707 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R35690:35695 LF.IndProp <> subseq ind
+R35697:35698 LF.IndProp <> l1:167 var
+R35700:35701 LF.IndProp <> l2:168 var
+R35708:35713 LF.IndProp <> subseq ind
+R35715:35716 LF.IndProp <> l1:167 var
+R35721:35724 LF.Poly <> :::x_'++'_x not
+R35719:35720 LF.IndProp <> l2:168 var
+R35725:35726 LF.IndProp <> l3:169 var
+R35803:35806 LF.IndProp <> sub1 constr
+R35803:35806 LF.IndProp <> sub1 constr
+R35826:35829 LF.IndProp <> sub2 constr
+R35826:35829 LF.IndProp <> sub2 constr
+R35865:35868 LF.IndProp <> sub3 constr
+R35865:35868 LF.IndProp <> sub3 constr
+prf 35899:35908 <> subseq_nil
+binder 35919:35919 <> l:170
+R35938:35941 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R35926:35931 LF.IndProp <> subseq ind
+R35933:35933 LF.IndProp <> l:170 var
+R35935:35937 LF.Poly <> :::'['_']' not
+R35943:35945 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R35942:35942 LF.IndProp <> l:170 var
+R35946:35947 LF.Poly <> :::'['_']' not
+prf 36021:36029 <> subseq_hd
+binder 36040:36040 <> h:171
+binder 36042:36042 <> t:172
+binder 36044:36044 <> l:173
+R36068:36071 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R36051:36056 LF.IndProp <> subseq ind
+R36060:36063 LF.Poly <> :::x_'::'_x not
+R36059:36059 LF.IndProp <> h:171 var
+R36064:36064 LF.IndProp <> t:172 var
+R36067:36067 LF.IndProp <> l:173 var
+R36072:36077 LF.IndProp <> subseq ind
+R36079:36079 LF.IndProp <> t:172 var
+R36081:36081 LF.IndProp <> l:173 var
+R36203:36206 LF.IndProp <> sub2 constr
+R36203:36206 LF.IndProp <> sub2 constr
+R36231:36234 LF.IndProp <> sub2 constr
+R36231:36234 LF.IndProp <> sub2 constr
+prf 36263:36274 <> subseq_trans
+R36297:36300 LF.Poly <> list ind
+R36302:36304 Coq.Init.Datatypes <> nat ind
+binder 36286:36287 <> l1:174
+binder 36289:36290 <> l2:175
+binder 36292:36293 <> l3:176
+R36322:36327 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R36310:36315 LF.IndProp <> subseq ind
+R36317:36318 LF.IndProp <> l1:174 var
+R36320:36321 LF.IndProp <> l2:175 var
+R36340:36345 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R36328:36333 LF.IndProp <> subseq ind
+R36335:36336 LF.IndProp <> l2:175 var
+R36338:36339 LF.IndProp <> l3:176 var
+R36346:36351 LF.IndProp <> subseq ind
+R36353:36354 LF.IndProp <> l1:174 var
+R36356:36357 LF.IndProp <> l3:176 var
+R36508:36517 LF.IndProp <> subseq_nil thm
+R36508:36517 LF.IndProp <> subseq_nil thm
+R36557:36566 LF.IndProp <> subseq_nil thm
+R36557:36566 LF.IndProp <> subseq_nil thm
+R36595:36598 LF.IndProp <> sub1 constr
+R36595:36598 LF.IndProp <> sub1 constr
+R36679:36688 LF.IndProp <> subseq_nil thm
+R36679:36688 LF.IndProp <> subseq_nil thm
+R36724:36727 LF.IndProp <> sub1 constr
+R36724:36727 LF.IndProp <> sub1 constr
+R36742:36745 LF.IndProp <> sub2 constr
+R36742:36745 LF.IndProp <> sub2 constr
+R36808:36811 LF.IndProp <> sub1 constr
+R36808:36811 LF.IndProp <> sub1 constr
+R36828:36831 LF.IndProp <> sub2 constr
+R36828:36831 LF.IndProp <> sub2 constr
+R37018:37021 LF.IndProp <> sub3 constr
+R37018:37021 LF.IndProp <> sub3 constr
+ind 38288:38294 <> reg_exp
+constr 38321:38328 <> EmptySet
+constr 38334:38341 <> EmptyStr
+constr 38347:38350 <> Char
+constr 38364:38366 <> App
+constr 38392:38396 <> Union
+constr 38422:38425 <> Star
+binder 38297:38297 <> T:177
+R38357:38357 LF.IndProp <> T:177 var
+binder 38353:38353 <> t:180
+R38377:38383 LF.IndProp <> reg_exp:178 ind
+R38385:38385 LF.IndProp <> T:177 var
+binder 38369:38370 <> r1:181
+binder 38372:38373 <> r2:182
+R38407:38413 LF.IndProp <> reg_exp:178 ind
+R38415:38415 LF.IndProp <> T:177 var
+binder 38399:38400 <> r1:183
+binder 38402:38403 <> r2:184
+R38432:38438 LF.IndProp <> reg_exp:178 ind
+R38440:38440 LF.IndProp <> T:177 var
+binder 38428:38428 <> r:185
+R38455:38462 LF.IndProp <> EmptySet constr
+R38455:38462 LF.IndProp <> EmptySet constr
+R38479:38486 LF.IndProp <> EmptyStr constr
+R38479:38486 LF.IndProp <> EmptyStr constr
+R38503:38506 LF.IndProp <> Char constr
+R38503:38506 LF.IndProp <> Char constr
+R38525:38527 LF.IndProp <> App constr
+R38525:38527 LF.IndProp <> App constr
+R38548:38552 LF.IndProp <> Union constr
+R38548:38552 LF.IndProp <> Union constr
+R38573:38576 LF.IndProp <> Star constr
+R38573:38576 LF.IndProp <> Star constr
+ind 40257:40265 <> exp_match
+constr 40308:40313 <> MEmpty
+constr 40336:40340 <> MChar
+constr 40366:40369 <> MApp
+constr 40490:40496 <> MUnionL
+constr 40584:40590 <> MUnionR
+constr 40678:40683 <> MStar0
+constr 40710:40717 <> MStarApp
+binder 40268:40268 <> T:186
+R40279:40282 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R40273:40276 LF.Poly <> list ind
+R40292:40295 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R40283:40289 LF.IndProp <> reg_exp ind
+R40864:40872 LF.IndProp <> exp_match:188 ind
+R40319:40322 LF.IndProp <> :::x_'=~'_x not
+R40317:40318 LF.Poly <> :::'['_']' not
+R40323:40330 LF.IndProp <> EmptyStr constr
+binder 40342:40342 <> x:189
+R40349:40353 LF.IndProp <> :::x_'=~'_x not
+R40360:40360 LF.IndProp <> :::x_'=~'_x not
+R40346:40346 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R40348:40348 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R40347:40347 LF.IndProp <> x:189 var
+R40354:40357 LF.IndProp <> Char constr
+R40359:40359 LF.IndProp <> x:189 var
+binder 40371:40372 <> s1:190
+binder 40374:40376 <> re1:191
+binder 40378:40379 <> s2:192
+binder 40381:40383 <> re2:193
+R40406:40409 LF.IndProp <> :::x_'=~'_x not
+R40404:40405 LF.IndProp <> s1:190 var
+R40410:40412 LF.IndProp <> re1:191 var
+binder 40399:40400 <> H1:194
+R40436:40439 LF.IndProp <> :::x_'=~'_x not
+R40434:40435 LF.IndProp <> s2:192 var
+R40440:40442 LF.IndProp <> re2:193 var
+binder 40429:40430 <> H2:195
+R40458:40458 LF.IndProp <> :::x_'=~'_x not
+R40467:40472 LF.IndProp <> :::x_'=~'_x not
+R40484:40484 LF.IndProp <> :::x_'=~'_x not
+R40461:40464 LF.Poly <> :::x_'++'_x not
+R40459:40460 LF.IndProp <> s1:190 var
+R40465:40466 LF.IndProp <> s2:192 var
+R40473:40475 LF.IndProp <> App constr
+R40481:40483 LF.IndProp <> re2:193 var
+R40477:40479 LF.IndProp <> re1:191 var
+binder 40498:40499 <> s1:196
+binder 40501:40503 <> re1:197
+binder 40505:40507 <> re2:198
+R40533:40536 LF.IndProp <> :::x_'=~'_x not
+R40531:40532 LF.IndProp <> s1:196 var
+R40537:40539 LF.IndProp <> re1:197 var
+binder 40526:40527 <> H1:199
+R40560:40564 LF.IndProp <> :::x_'=~'_x not
+R40578:40578 LF.IndProp <> :::x_'=~'_x not
+R40558:40559 LF.IndProp <> s1:196 var
+R40565:40569 LF.IndProp <> Union constr
+R40575:40577 LF.IndProp <> re2:198 var
+R40571:40573 LF.IndProp <> re1:197 var
+binder 40592:40594 <> re1:200
+binder 40596:40597 <> s2:201
+binder 40599:40601 <> re2:202
+R40627:40630 LF.IndProp <> :::x_'=~'_x not
+R40625:40626 LF.IndProp <> s2:201 var
+R40631:40633 LF.IndProp <> re2:202 var
+binder 40620:40621 <> H2:203
+R40654:40658 LF.IndProp <> :::x_'=~'_x not
+R40672:40672 LF.IndProp <> :::x_'=~'_x not
+R40652:40653 LF.IndProp <> s2:201 var
+R40659:40663 LF.IndProp <> Union constr
+R40669:40671 LF.IndProp <> re2:202 var
+R40665:40667 LF.IndProp <> re1:200 var
+binder 40685:40686 <> re:204
+R40692:40696 LF.IndProp <> :::x_'=~'_x not
+R40704:40704 LF.IndProp <> :::x_'=~'_x not
+R40690:40691 LF.Poly <> :::'['_']' not
+R40697:40700 LF.IndProp <> Star constr
+R40702:40703 LF.IndProp <> re:204 var
+binder 40719:40720 <> s1:205
+binder 40722:40723 <> s2:206
+binder 40725:40726 <> re:207
+R40753:40756 LF.IndProp <> :::x_'=~'_x not
+R40751:40752 LF.IndProp <> s1:205 var
+R40757:40758 LF.IndProp <> re:207 var
+binder 40746:40747 <> H1:208
+R40786:40790 LF.IndProp <> :::x_'=~'_x not
+R40798:40798 LF.IndProp <> :::x_'=~'_x not
+R40784:40785 LF.IndProp <> s2:206 var
+R40791:40794 LF.IndProp <> Star constr
+R40796:40797 LF.IndProp <> re:207 var
+binder 40779:40780 <> H2:209
+R40818:40818 LF.IndProp <> :::x_'=~'_x not
+R40827:40832 LF.IndProp <> :::x_'=~'_x not
+R40840:40840 LF.IndProp <> :::x_'=~'_x not
+R40821:40824 LF.Poly <> :::x_'++'_x not
+R40819:40820 LF.IndProp <> s1:205 var
+R40825:40826 LF.IndProp <> s2:206 var
+R40833:40836 LF.IndProp <> Star constr
+R40838:40839 LF.IndProp <> re:207 var
+R40864:40872 LF.IndProp <> exp_match ind
+not 40850:40850 <> :::x_'=~'_x
+prf 40888:40891 <> quiz
+binder 40902:40902 <> T:210
+R40907:40910 LF.Poly <> list ind
+R40912:40912 LF.IndProp <> T:210 var
+binder 40905:40905 <> s:211
+R40916:40917 Coq.Init.Logic <> ::type_scope:'~'_x not
+R40931:40931 Coq.Init.Logic <> ::type_scope:'~'_x not
+R40919:40922 LF.IndProp <> :::x_'=~'_x not
+R40918:40918 LF.IndProp <> s:211 var
+R40923:40930 LF.IndProp <> EmptySet constr
+def 43232:43242 <> reg_exp_ex1
+R43249:43252 LF.IndProp <> :::x_'=~'_x not
+R43246:43246 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R43248:43248 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R43253:43256 LF.IndProp <> Char constr
+R43276:43280 LF.IndProp <> MChar constr
+R43276:43280 LF.IndProp <> MChar constr
+def 43297:43307 <> reg_exp_ex2
+R43317:43320 LF.IndProp <> :::x_'=~'_x not
+R43311:43311 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R43313:43314 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R43316:43316 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R43321:43323 LF.IndProp <> App constr
+R43335:43338 LF.IndProp <> Char constr
+R43326:43329 LF.IndProp <> Char constr
+R43360:43363 LF.IndProp <> MApp constr
+R43365:43365 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R43367:43367 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R43360:43363 LF.IndProp <> MApp constr
+R43365:43365 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R43367:43367 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R43381:43385 LF.IndProp <> MChar constr
+R43381:43385 LF.IndProp <> MChar constr
+R43398:43402 LF.IndProp <> MChar constr
+R43398:43402 LF.IndProp <> MChar constr
+def 43749:43759 <> reg_exp_ex3
+R43763:43765 Coq.Init.Logic <> ::type_scope:'~'_x not
+R43782:43782 Coq.Init.Logic <> ::type_scope:'~'_x not
+R43772:43775 LF.IndProp <> :::x_'=~'_x not
+R43766:43766 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R43768:43769 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R43771:43771 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R43776:43779 LF.IndProp <> Char constr
+def 44047:44061 <> reg_exp_of_list
+binder 44064:44064 <> T:212
+R44072:44075 LF.Poly <> list ind
+R44077:44077 LF.IndProp <> T:212 var
+binder 44068:44068 <> l:213
+R44091:44091 LF.IndProp <> l:213 var
+R44102:44103 LF.Poly <> :::'['_']' not
+R44108:44115 LF.IndProp <> EmptyStr constr
+R44122:44125 LF.Poly <> :::x_'::'_x not
+R44132:44134 LF.IndProp <> App constr
+R44146:44160 LF.IndProp <> reg_exp_of_list:214 def
+R44137:44140 LF.IndProp <> Char constr
+def 44182:44192 <> reg_exp_ex4
+R44205:44208 LF.IndProp <> :::x_'=~'_x not
+R44196:44196 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R44198:44199 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R44201:44202 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R44204:44204 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R44209:44223 LF.IndProp <> reg_exp_of_list def
+R44225:44225 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R44227:44228 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R44230:44231 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R44233:44233 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R44259:44262 LF.IndProp <> MApp constr
+R44264:44264 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R44266:44266 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R44259:44262 LF.IndProp <> MApp constr
+R44264:44264 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R44266:44266 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R44280:44284 LF.IndProp <> MChar constr
+R44280:44284 LF.IndProp <> MChar constr
+R44298:44301 LF.IndProp <> MApp constr
+R44303:44303 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R44305:44305 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R44298:44301 LF.IndProp <> MApp constr
+R44303:44303 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R44305:44305 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R44319:44323 LF.IndProp <> MChar constr
+R44319:44323 LF.IndProp <> MChar constr
+R44337:44340 LF.IndProp <> MApp constr
+R44342:44342 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R44344:44344 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R44337:44340 LF.IndProp <> MApp constr
+R44342:44342 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R44344:44344 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R44358:44362 LF.IndProp <> MChar constr
+R44358:44362 LF.IndProp <> MChar constr
+R44375:44380 LF.IndProp <> MEmpty constr
+R44375:44380 LF.IndProp <> MEmpty constr
+prf 44567:44572 <> MStar1
+binder 44585:44585 <> T:216
+binder 44587:44587 <> s:217
+R44595:44601 LF.IndProp <> reg_exp ind
+R44603:44603 LF.IndProp <> T:216 var
+binder 44590:44591 <> re:218
+R44619:44626 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R44613:44616 LF.IndProp <> :::x_'=~'_x not
+R44612:44612 LF.IndProp <> s:217 var
+R44617:44618 LF.IndProp <> re:218 var
+R44628:44631 LF.IndProp <> :::x_'=~'_x not
+R44627:44627 LF.IndProp <> s:217 var
+R44632:44635 LF.IndProp <> Star constr
+R44637:44638 LF.IndProp <> re:218 var
+R44681:44689 LF.Poly <> app_nil_r thm
+R44681:44689 LF.Poly <> app_nil_r thm
+R44681:44689 LF.Poly <> app_nil_r thm
+R44705:44712 LF.IndProp <> MStarApp constr
+R44705:44712 LF.IndProp <> MStarApp constr
+R44738:44743 LF.IndProp <> MStar0 constr
+R44738:44743 LF.IndProp <> MStar0 constr
+prf 45106:45119 <> empty_is_empty
+binder 45130:45130 <> T:219
+R45137:45140 LF.Poly <> list ind
+R45142:45142 LF.IndProp <> T:219 var
+binder 45133:45133 <> s:220
+R45148:45150 Coq.Init.Logic <> ::type_scope:'~'_x not
+R45164:45164 Coq.Init.Logic <> ::type_scope:'~'_x not
+R45152:45155 LF.IndProp <> :::x_'=~'_x not
+R45151:45151 LF.IndProp <> s:220 var
+R45156:45163 LF.IndProp <> EmptySet constr
+prf 45237:45243 <> MUnion'
+binder 45254:45254 <> T:221
+R45261:45264 LF.Poly <> list ind
+R45266:45266 LF.IndProp <> T:221 var
+binder 45257:45257 <> s:222
+R45280:45286 LF.IndProp <> reg_exp ind
+R45288:45288 LF.IndProp <> T:221 var
+binder 45270:45272 <> re1:223
+binder 45274:45276 <> re2:224
+R45314:45319 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R45302:45305 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R45295:45298 LF.IndProp <> :::x_'=~'_x not
+R45294:45294 LF.IndProp <> s:222 var
+R45299:45301 LF.IndProp <> re1:223 var
+R45307:45310 LF.IndProp <> :::x_'=~'_x not
+R45306:45306 LF.IndProp <> s:222 var
+R45311:45313 LF.IndProp <> re2:224 var
+R45321:45324 LF.IndProp <> :::x_'=~'_x not
+R45320:45320 LF.IndProp <> s:222 var
+R45325:45329 LF.IndProp <> Union constr
+R45335:45337 LF.IndProp <> re2:224 var
+R45331:45333 LF.IndProp <> re1:223 var
+R45412:45418 LF.IndProp <> MUnionL constr
+R45412:45418 LF.IndProp <> MUnionL constr
+R45442:45448 LF.IndProp <> MUnionR constr
+R45442:45448 LF.IndProp <> MUnionR constr
+prf 45719:45724 <> MStar'
+binder 45735:45735 <> T:225
+R45743:45746 LF.Poly <> list ind
+R45749:45752 LF.Poly <> list ind
+R45754:45754 LF.IndProp <> T:225 var
+binder 45738:45739 <> ss:226
+R45764:45770 LF.IndProp <> reg_exp ind
+R45772:45772 LF.IndProp <> T:225 var
+binder 45759:45760 <> re:227
+R45778:45778 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R45807:45813 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+binder 45786:45786 <> s:228
+R45796:45799 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R45789:45790 LF.Logic <> In def
+R45794:45795 LF.IndProp <> ss:226 var
+R45792:45792 LF.IndProp <> s:228 var
+R45801:45804 LF.IndProp <> :::x_'=~'_x not
+R45800:45800 LF.IndProp <> s:228 var
+R45805:45806 LF.IndProp <> re:227 var
+R45828:45831 LF.IndProp <> :::x_'=~'_x not
+R45814:45817 LF.Poly <> fold def
+R45826:45827 LF.Poly <> :::'['_']' not
+R45823:45824 LF.IndProp <> ss:226 var
+R45819:45821 LF.Poly <> app def
+R45832:45835 LF.IndProp <> Star constr
+R45837:45838 LF.IndProp <> re:227 var
+R45938:45943 LF.IndProp <> MStar0 constr
+R45938:45943 LF.IndProp <> MStar0 constr
+R45963:45970 LF.IndProp <> MStarApp constr
+R45963:45970 LF.IndProp <> MStarApp constr
+prf 46253:46272 <> reg_exp_of_list_spec
+binder 46283:46283 <> T:229
+R46294:46297 LF.Poly <> list ind
+R46299:46299 LF.IndProp <> T:229 var
+binder 46286:46287 <> s1:230
+binder 46289:46290 <> s2:231
+R46329:46333 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R46307:46310 LF.IndProp <> :::x_'=~'_x not
+R46305:46306 LF.IndProp <> s1:230 var
+R46311:46325 LF.IndProp <> reg_exp_of_list def
+R46327:46328 LF.IndProp <> s2:231 var
+R46336:46338 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R46334:46335 LF.IndProp <> s1:230 var
+R46339:46340 LF.IndProp <> s2:231 var
+def 46940:46947 <> re_chars
+binder 46950:46950 <> T:232
+R46959:46965 LF.IndProp <> reg_exp ind
+R46967:46967 LF.IndProp <> T:232 var
+binder 46954:46955 <> re:233
+R46972:46975 LF.Poly <> list ind
+R46977:46977 LF.IndProp <> T:232 var
+R46990:46991 LF.IndProp <> re:233 var
+R47002:47009 LF.IndProp <> EmptySet constr
+R47014:47015 LF.Poly <> :::'['_']' not
+R47021:47028 LF.IndProp <> EmptyStr constr
+R47033:47034 LF.Poly <> :::'['_']' not
+R47040:47043 LF.IndProp <> Char constr
+R47050:47050 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R47052:47052 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R47058:47060 LF.IndProp <> App constr
+R47085:47088 LF.Poly <> :::x_'++'_x not
+R47073:47080 LF.IndProp <> re_chars:234 def
+R47089:47096 LF.IndProp <> re_chars:234 def
+R47106:47110 LF.IndProp <> Union constr
+R47135:47138 LF.Poly <> :::x_'++'_x not
+R47123:47130 LF.IndProp <> re_chars:234 def
+R47139:47146 LF.IndProp <> re_chars:234 def
+R47156:47159 LF.IndProp <> Star constr
+R47167:47174 LF.IndProp <> re_chars:234 def
+R47176:47177 LF.IndProp <> re:233 var
+prf 47246:47256 <> in_re_match
+binder 47267:47267 <> T:236
+R47274:47277 LF.Poly <> list ind
+R47279:47279 LF.IndProp <> T:236 var
+binder 47270:47270 <> s:237
+R47288:47294 LF.IndProp <> reg_exp ind
+R47296:47296 LF.IndProp <> T:236 var
+binder 47283:47284 <> re:238
+R47304:47304 LF.IndProp <> T:236 var
+binder 47300:47300 <> x:239
+R47317:47322 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R47311:47314 LF.IndProp <> :::x_'=~'_x not
+R47310:47310 LF.IndProp <> s:237 var
+R47315:47316 LF.IndProp <> re:238 var
+R47329:47334 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R47323:47324 LF.Logic <> In def
+R47328:47328 LF.IndProp <> s:237 var
+R47326:47326 LF.IndProp <> x:239 var
+R47335:47336 LF.Logic <> In def
+R47341:47348 LF.IndProp <> re_chars def
+R47350:47351 LF.IndProp <> re:238 var
+R47338:47338 LF.IndProp <> x:239 var
+R48001:48010 LF.Logic <> In_app_iff thm
+R48001:48010 LF.Logic <> In_app_iff thm
+R48001:48010 LF.Logic <> In_app_iff thm
+R48187:48196 LF.Logic <> In_app_iff thm
+R48187:48196 LF.Logic <> In_app_iff thm
+R48187:48196 LF.Logic <> In_app_iff thm
+R48262:48271 LF.Logic <> In_app_iff thm
+R48262:48271 LF.Logic <> In_app_iff thm
+R48262:48271 LF.Logic <> In_app_iff thm
+R48716:48725 LF.Logic <> In_app_iff thm
+R48716:48725 LF.Logic <> In_app_iff thm
+R48716:48725 LF.Logic <> In_app_iff thm
+def 49079:49090 <> re_not_empty
+binder 49093:49093 <> T:240
+R49109:49115 LF.IndProp <> reg_exp ind
+R49117:49117 LF.IndProp <> T:240 var
+binder 49104:49105 <> re:241
+R49122:49125 LF.Basics <> bool ind
+prf 49201:49220 <> re_not_empty_correct
+binder 49231:49231 <> T:243
+R49239:49245 LF.IndProp <> reg_exp ind
+R49247:49247 LF.IndProp <> T:243 var
+binder 49234:49235 <> re:244
+R49253:49253 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R49271:49276 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R49254:49260 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+R49262:49263 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+binder 49261:49261 <> s:245
+R49265:49268 LF.IndProp <> :::x_'=~'_x not
+R49264:49264 LF.IndProp <> s:245 var
+R49269:49270 LF.IndProp <> re:244 var
+R49292:49294 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R49277:49288 LF.IndProp <> re_not_empty prfax
+R49290:49291 LF.IndProp <> re:244 var
+R49295:49298 LF.Basics <> true constr
+prf 49803:49810 <> star_app
+binder 49820:49820 <> T:246
+R49831:49834 LF.Poly <> list ind
+R49836:49836 LF.IndProp <> T:246 var
+binder 49823:49824 <> s1:247
+binder 49826:49827 <> s2:248
+R49845:49851 LF.IndProp <> reg_exp ind
+R49853:49853 LF.IndProp <> T:246 var
+binder 49840:49841 <> re:249
+R49872:49877 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R49861:49864 LF.IndProp <> :::x_'=~'_x not
+R49859:49860 LF.IndProp <> s1:247 var
+R49865:49868 LF.IndProp <> Star constr
+R49870:49871 LF.IndProp <> re:249 var
+R49891:49896 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R49880:49883 LF.IndProp <> :::x_'=~'_x not
+R49878:49879 LF.IndProp <> s2:248 var
+R49884:49887 LF.IndProp <> Star constr
+R49889:49890 LF.IndProp <> re:249 var
+R49905:49908 LF.IndProp <> :::x_'=~'_x not
+R49899:49902 LF.Poly <> :::x_'++'_x not
+R49897:49898 LF.IndProp <> s1:247 var
+R49903:49904 LF.IndProp <> s2:248 var
+R49909:49912 LF.IndProp <> Star constr
+R49914:49915 LF.IndProp <> re:249 var
+prf 51641:51648 <> star_app
+binder 51658:51658 <> T:250
+R51669:51672 LF.Poly <> list ind
+R51674:51674 LF.IndProp <> T:250 var
+binder 51661:51662 <> s1:251
+binder 51664:51665 <> s2:252
+R51687:51693 LF.IndProp <> reg_exp ind
+R51695:51695 LF.IndProp <> T:250 var
+binder 51678:51679 <> re:253
+binder 51681:51683 <> re':254
+R51714:51719 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R51704:51706 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R51701:51703 LF.IndProp <> re':254 var
+R51707:51710 LF.IndProp <> Star constr
+R51712:51713 LF.IndProp <> re:253 var
+R51729:51734 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R51722:51725 LF.IndProp <> :::x_'=~'_x not
+R51720:51721 LF.IndProp <> s1:251 var
+R51726:51728 LF.IndProp <> re':254 var
+R51748:51753 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R51737:51740 LF.IndProp <> :::x_'=~'_x not
+R51735:51736 LF.IndProp <> s2:252 var
+R51741:51744 LF.IndProp <> Star constr
+R51746:51747 LF.IndProp <> re:253 var
+R51762:51765 LF.IndProp <> :::x_'=~'_x not
+R51756:51759 LF.Poly <> :::x_'++'_x not
+R51754:51755 LF.IndProp <> s1:251 var
+R51760:51761 LF.IndProp <> s2:252 var
+R51766:51769 LF.IndProp <> Star constr
+R51771:51772 LF.IndProp <> re:253 var
+prf 52465:52472 <> star_app
+binder 52482:52482 <> T:255
+R52493:52496 LF.Poly <> list ind
+R52498:52498 LF.IndProp <> T:255 var
+binder 52485:52486 <> s1:256
+binder 52488:52489 <> s2:257
+R52507:52513 LF.IndProp <> reg_exp ind
+R52515:52515 LF.IndProp <> T:255 var
+binder 52502:52503 <> re:258
+R52534:52539 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R52523:52526 LF.IndProp <> :::x_'=~'_x not
+R52521:52522 LF.IndProp <> s1:256 var
+R52527:52530 LF.IndProp <> Star constr
+R52532:52533 LF.IndProp <> re:258 var
+R52553:52558 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R52542:52545 LF.IndProp <> :::x_'=~'_x not
+R52540:52541 LF.IndProp <> s2:257 var
+R52546:52549 LF.IndProp <> Star constr
+R52551:52552 LF.IndProp <> re:258 var
+R52567:52570 LF.IndProp <> :::x_'=~'_x not
+R52561:52564 LF.Poly <> :::x_'++'_x not
+R52559:52560 LF.IndProp <> s1:256 var
+R52565:52566 LF.IndProp <> s2:257 var
+R52571:52574 LF.IndProp <> Star constr
+R52576:52577 LF.IndProp <> re:258 var
+R52623:52626 LF.IndProp <> Star constr
+R52623:52626 LF.IndProp <> Star constr
+R53548:53556 LF.Poly <> app_assoc thm
+R53548:53556 LF.Poly <> app_assoc thm
+R53548:53556 LF.Poly <> app_assoc thm
+R53569:53576 LF.IndProp <> MStarApp constr
+R53569:53576 LF.IndProp <> MStarApp constr
+prf 53958:53964 <> MStar''
+binder 53975:53975 <> T:259
+R53982:53985 LF.Poly <> list ind
+R53987:53987 LF.IndProp <> T:259 var
+binder 53978:53978 <> s:260
+R53996:54002 LF.IndProp <> reg_exp ind
+R54004:54004 LF.IndProp <> T:259 var
+binder 53991:53992 <> re:261
+R54022:54027 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R54011:54014 LF.IndProp <> :::x_'=~'_x not
+R54010:54010 LF.IndProp <> s:260 var
+R54015:54018 LF.IndProp <> Star constr
+R54020:54021 LF.IndProp <> re:261 var
+R54028:54034 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+R54053:54058 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+R54040:54043 LF.Poly <> list ind
+R54046:54049 LF.Poly <> list ind
+R54051:54051 LF.IndProp <> T:259 var
+binder 54035:54036 <> ss:262
+R54077:54084 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R54060:54062 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R54059:54059 LF.IndProp <> s:260 var
+R54063:54066 LF.Poly <> fold def
+R54075:54076 LF.Poly <> :::'['_']' not
+R54072:54073 LF.IndProp <> ss:262 var
+R54068:54070 LF.Poly <> app def
+binder 54092:54093 <> s':263
+R54104:54107 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R54096:54097 LF.Logic <> In def
+R54102:54103 LF.IndProp <> ss:262 var
+R54099:54100 LF.IndProp <> s':263 var
+R54110:54113 LF.IndProp <> :::x_'=~'_x not
+R54108:54109 LF.IndProp <> s':263 var
+R54114:54115 LF.IndProp <> re:261 var
+mod 55006:55012 <> Pumping
+def 55025:55040 Pumping pumping_constant
+binder 55043:55043 <> T:264
+R55052:55058 LF.IndProp <> reg_exp ind
+R55060:55060 LF.IndProp <> T:264 var
+binder 55047:55048 <> re:265
+R55065:55067 Coq.Init.Datatypes <> nat ind
+R55080:55081 LF.IndProp <> re:265 var
+R55092:55099 LF.IndProp <> EmptySet constr
+R55110:55117 LF.IndProp <> EmptyStr constr
+R55128:55131 LF.IndProp <> Char constr
+R55144:55146 LF.IndProp <> App constr
+R55185:55187 LF.Basics <> ::nat_scope:x_'+'_x not
+R55165:55180 LF.IndProp <> pumping_constant:266 def
+R55188:55203 LF.IndProp <> pumping_constant:266 def
+R55213:55217 LF.IndProp <> Union constr
+R55256:55258 LF.Basics <> ::nat_scope:x_'+'_x not
+R55236:55251 LF.IndProp <> pumping_constant:266 def
+R55259:55274 LF.IndProp <> pumping_constant:266 def
+R55284:55287 LF.IndProp <> Star constr
+R55294:55309 LF.IndProp <> pumping_constant:266 def
+prf 55437:55457 Pumping pumping_constant_ge_1
+binder 55470:55470 <> T:268
+R55478:55484 LF.IndProp <> reg_exp ind
+R55486:55486 LF.IndProp <> T:268 var
+binder 55473:55474 <> re:269
+R55513:55516 Coq.Init.Peano <> ::nat_scope:x_'>='_x not
+R55494:55509 LF.IndProp Pumping pumping_constant def
+R55511:55512 LF.IndProp <> re:269 var
+R55592:55595 Coq.Init.Peano <> le_n constr
+R55592:55595 Coq.Init.Peano <> le_n constr
+R55627:55630 Coq.Init.Peano <> le_n constr
+R55627:55630 Coq.Init.Peano <> le_n constr
+R55658:55661 Coq.Init.Peano <> le_S constr
+R55658:55661 Coq.Init.Peano <> le_S constr
+R55670:55673 Coq.Init.Peano <> le_n constr
+R55670:55673 Coq.Init.Peano <> le_n constr
+R55729:55744 LF.IndProp Pumping pumping_constant def
+R55711:55718 LF.IndProp <> le_trans thm
+R55729:55744 LF.IndProp Pumping pumping_constant def
+R55711:55718 LF.IndProp <> le_trans thm
+R55775:55783 LF.IndProp <> le_plus_l thm
+R55775:55783 LF.IndProp <> le_plus_l thm
+R55841:55856 LF.IndProp Pumping pumping_constant def
+R55823:55830 LF.IndProp <> le_trans thm
+R55841:55856 LF.IndProp Pumping pumping_constant def
+R55823:55830 LF.IndProp <> le_trans thm
+R55887:55895 LF.IndProp <> le_plus_l thm
+R55887:55895 LF.IndProp <> le_plus_l thm
+prf 55948:55971 Pumping pumping_constant_0_false
+binder 55984:55984 <> T:270
+R55992:55998 LF.IndProp <> reg_exp ind
+R56000:56000 LF.IndProp <> T:270 var
+binder 55987:55988 <> re:271
+R56031:56034 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R56027:56029 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R56008:56023 LF.IndProp Pumping pumping_constant def
+R56025:56026 LF.IndProp <> re:271 var
+R56035:56039 Coq.Init.Logic <> False ind
+R56101:56104 Coq.Init.Peano <> ::nat_scope:x_'>='_x not
+R56082:56097 LF.IndProp Pumping pumping_constant def
+R56101:56104 Coq.Init.Peano <> ::nat_scope:x_'>='_x not
+R56082:56097 LF.IndProp Pumping pumping_constant def
+R56119:56139 LF.IndProp Pumping pumping_constant_ge_1 thm
+R56119:56139 LF.IndProp Pumping pumping_constant_ge_1 thm
+def 56416:56419 Pumping napp
+binder 56422:56422 <> T:272
+R56430:56432 Coq.Init.Datatypes <> nat ind
+binder 56426:56426 <> n:273
+R56440:56443 LF.Poly <> list ind
+R56445:56445 LF.IndProp <> T:272 var
+binder 56436:56436 <> l:274
+R56450:56453 LF.Poly <> list ind
+R56455:56455 LF.IndProp <> T:272 var
+R56468:56468 LF.IndProp <> n:273 var
+R56484:56485 LF.Poly <> :::'['_']' not
+R56491:56491 Coq.Init.Datatypes <> S constr
+R56500:56503 LF.Poly <> :::x_'++'_x not
+R56499:56499 LF.IndProp <> l:274 var
+R56504:56507 LF.IndProp <> napp:275 def
+R56512:56512 LF.IndProp <> l:274 var
+prf 56618:56626 Pumping napp_plus
+binder 56636:56636 <> T:277
+R56645:56647 Coq.Init.Datatypes <> nat ind
+binder 56639:56639 <> n:278
+binder 56641:56641 <> m:279
+R56655:56658 LF.Poly <> list ind
+R56660:56660 LF.IndProp <> T:277 var
+binder 56651:56651 <> l:280
+R56680:56682 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R56666:56669 LF.IndProp Pumping napp def
+R56679:56679 LF.IndProp <> l:280 var
+R56673:56675 LF.Basics <> ::nat_scope:x_'+'_x not
+R56672:56672 LF.IndProp <> n:278 var
+R56676:56676 LF.IndProp <> m:279 var
+R56691:56694 LF.Poly <> :::x_'++'_x not
+R56683:56686 LF.IndProp Pumping napp def
+R56690:56690 LF.IndProp <> l:280 var
+R56688:56688 LF.IndProp <> n:278 var
+R56695:56698 LF.IndProp Pumping napp def
+R56702:56702 LF.IndProp <> l:280 var
+R56700:56700 LF.IndProp <> m:279 var
+R56798:56806 LF.Poly <> app_assoc thm
+R56798:56806 LF.Poly <> app_assoc thm
+R56798:56806 LF.Poly <> app_assoc thm
+prf 56834:56842 Pumping napp_star
+binder 56855:56855 <> T:281
+binder 56857:56857 <> m:282
+binder 56859:56860 <> s1:283
+binder 56862:56863 <> s2:284
+R56871:56877 LF.IndProp <> reg_exp ind
+R56879:56879 LF.IndProp <> T:281 var
+binder 56866:56867 <> re:285
+R56895:56898 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R56889:56892 LF.IndProp <> :::x_'=~'_x not
+R56887:56888 LF.IndProp <> s1:283 var
+R56893:56894 LF.IndProp <> re:285 var
+R56912:56919 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R56901:56904 LF.IndProp <> :::x_'=~'_x not
+R56899:56900 LF.IndProp <> s2:284 var
+R56905:56908 LF.IndProp <> Star constr
+R56910:56911 LF.IndProp <> re:285 var
+R56935:56938 LF.IndProp <> :::x_'=~'_x not
+R56929:56932 LF.Poly <> :::x_'++'_x not
+R56920:56923 LF.IndProp Pumping napp def
+R56927:56928 LF.IndProp <> s1:283 var
+R56925:56925 LF.IndProp <> m:282 var
+R56933:56934 LF.IndProp <> s2:284 var
+R56939:56942 LF.IndProp <> Star constr
+R56944:56945 LF.IndProp <> re:285 var
+R57045:57053 LF.Poly <> app_assoc thm
+R57045:57053 LF.Poly <> app_assoc thm
+R57045:57053 LF.Poly <> app_assoc thm
+R57066:57073 LF.IndProp <> MStarApp constr
+R57066:57073 LF.IndProp <> MStarApp constr
+prf 57632:57643 Pumping weak_pumping
+binder 57654:57654 <> T:286
+R57662:57668 LF.IndProp <> reg_exp ind
+R57670:57670 LF.IndProp <> T:286 var
+binder 57657:57658 <> re:287
+binder 57673:57673 <> s:288
+R57685:57690 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R57679:57682 LF.IndProp <> :::x_'=~'_x not
+R57678:57678 LF.IndProp <> s:288 var
+R57683:57684 LF.IndProp <> re:287 var
+R57722:57727 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R57710:57713 Coq.Init.Peano <> ::nat_scope:x_'<='_x not
+R57691:57706 LF.IndProp Pumping pumping_constant def
+R57708:57709 LF.IndProp <> re:287 var
+R57714:57719 LF.Poly <> length def
+R57721:57721 LF.IndProp <> s:288 var
+R57728:57734 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+R57743:57748 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+binder 57735:57736 <> s1:289
+binder 57738:57739 <> s2:290
+binder 57741:57742 <> s3:291
+R57767:57774 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R57750:57752 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R57749:57749 LF.IndProp <> s:288 var
+R57755:57758 LF.Poly <> :::x_'++'_x not
+R57753:57754 LF.IndProp <> s1:289 var
+R57761:57764 LF.Poly <> :::x_'++'_x not
+R57759:57760 LF.IndProp <> s2:290 var
+R57765:57766 LF.IndProp <> s3:291 var
+R57783:57790 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R57777:57780 Coq.Init.Logic <> ::type_scope:x_'<>'_x not
+R57775:57776 LF.IndProp <> s2:290 var
+R57781:57782 LF.Poly <> :::'['_']' not
+binder 57798:57798 <> m:292
+R57822:57825 LF.IndProp <> :::x_'=~'_x not
+R57803:57806 LF.Poly <> :::x_'++'_x not
+R57801:57802 LF.IndProp <> s1:289 var
+R57816:57819 LF.Poly <> :::x_'++'_x not
+R57807:57810 LF.IndProp Pumping napp def
+R57814:57815 LF.IndProp <> s2:290 var
+R57812:57812 LF.IndProp <> m:292 var
+R57820:57821 LF.IndProp <> s3:291 var
+R57826:57827 LF.IndProp <> re:287 var
+prf 58536:58542 Pumping pumping
+binder 58553:58553 <> T:293
+R58561:58567 LF.IndProp <> reg_exp ind
+R58569:58569 LF.IndProp <> T:293 var
+binder 58556:58557 <> re:294
+binder 58572:58572 <> s:295
+R58584:58589 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R58578:58581 LF.IndProp <> :::x_'=~'_x not
+R58577:58577 LF.IndProp <> s:295 var
+R58582:58583 LF.IndProp <> re:294 var
+R58621:58626 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R58609:58612 Coq.Init.Peano <> ::nat_scope:x_'<='_x not
+R58590:58605 LF.IndProp Pumping pumping_constant def
+R58607:58608 LF.IndProp <> re:294 var
+R58613:58618 LF.Poly <> length def
+R58620:58620 LF.IndProp <> s:295 var
+R58627:58633 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+R58642:58647 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+binder 58634:58635 <> s1:296
+binder 58637:58638 <> s2:297
+binder 58640:58641 <> s3:298
+R58666:58673 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R58649:58651 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R58648:58648 LF.IndProp <> s:295 var
+R58654:58657 LF.Poly <> :::x_'++'_x not
+R58652:58653 LF.IndProp <> s1:296 var
+R58660:58663 LF.Poly <> :::x_'++'_x not
+R58658:58659 LF.IndProp <> s2:297 var
+R58664:58665 LF.IndProp <> s3:298 var
+R58682:58689 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R58676:58679 Coq.Init.Logic <> ::type_scope:x_'<>'_x not
+R58674:58675 LF.IndProp <> s2:297 var
+R58680:58681 LF.Poly <> :::'['_']' not
+R58734:58741 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R58711:58714 Coq.Init.Peano <> ::nat_scope:x_'<='_x not
+R58699:58701 LF.Basics <> ::nat_scope:x_'+'_x not
+R58690:58695 LF.Poly <> length def
+R58697:58698 LF.IndProp <> s1:296 var
+R58702:58707 LF.Poly <> length def
+R58709:58710 LF.IndProp <> s2:297 var
+R58715:58730 LF.IndProp Pumping pumping_constant def
+R58732:58733 LF.IndProp <> re:294 var
+binder 58749:58749 <> m:299
+R58773:58776 LF.IndProp <> :::x_'=~'_x not
+R58754:58757 LF.Poly <> :::x_'++'_x not
+R58752:58753 LF.IndProp <> s1:296 var
+R58767:58770 LF.Poly <> :::x_'++'_x not
+R58758:58761 LF.IndProp Pumping napp def
+R58765:58766 LF.IndProp <> s2:297 var
+R58763:58763 LF.IndProp <> m:299 var
+R58771:58772 LF.IndProp <> s3:298 var
+R58777:58778 LF.IndProp <> re:294 var
+R59147:59153 LF.IndProp Pumping <> mod
+prf 59557:59575 <> filter_not_empty_In
+binder 59586:59586 <> n:300
+binder 59588:59588 <> l:301
+R59625:59630 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R59619:59622 Coq.Init.Logic <> ::type_scope:x_'<>'_x not
+R59593:59598 LF.Poly <> filter def
+R59618:59618 LF.IndProp <> l:301 var
+binder 59605:59605 <> x:302
+R59611:59614 LF.Basics <> ::nat_scope:x_'=?'_x not
+R59610:59610 LF.IndProp <> n:300 var
+R59615:59615 LF.IndProp <> x:302 var
+R59623:59624 LF.Poly <> :::'['_']' not
+R59631:59632 LF.Logic <> In def
+R59636:59636 LF.IndProp <> l:301 var
+R59634:59634 LF.IndProp <> n:300 var
+R59793:59796 LF.Basics <> ::nat_scope:x_'=?'_x not
+R59793:59796 LF.Basics <> ::nat_scope:x_'=?'_x not
+R59857:59862 LF.Logic <> eqb_eq thm
+R59857:59862 LF.Logic <> eqb_eq thm
+R59857:59862 LF.Logic <> eqb_eq thm
+ind 60606:60612 <> reflect
+constr 60645:60652 <> ReflectT
+constr 60683:60690 <> ReflectF
+binder 60615:60615 <> P:303
+R60631:60634 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R60627:60630 LF.Basics <> bool ind
+R60661:60661 LF.IndProp <> P:303 var
+binder 60655:60655 <> H:306
+R60666:60672 LF.IndProp <> reflect:304 ind
+R60676:60679 LF.Basics <> true constr
+R60674:60674 LF.IndProp <> P:303 var
+R60697:60698 Coq.Init.Logic <> ::type_scope:'~'_x not
+R60699:60699 LF.IndProp <> P:303 var
+binder 60693:60693 <> H:307
+R60704:60710 LF.IndProp <> reflect:304 ind
+R60714:60718 LF.Basics <> false constr
+R60712:60712 LF.IndProp <> P:303 var
+prf 61596:61606 <> iff_reflect
+binder 61617:61617 <> P:308
+binder 61619:61619 <> b:309
+R61622:61622 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R61637:61641 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R61624:61628 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R61623:61623 LF.IndProp <> P:308 var
+R61630:61632 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R61629:61629 LF.IndProp <> b:309 var
+R61633:61636 LF.Basics <> true constr
+R61642:61648 LF.IndProp <> reflect ind
+R61650:61650 LF.IndProp <> P:308 var
+R61652:61652 LF.IndProp <> b:309 var
+R61724:61731 LF.IndProp <> ReflectT constr
+R61724:61731 LF.IndProp <> ReflectT constr
+R61768:61775 LF.IndProp <> ReflectF constr
+R61768:61775 LF.IndProp <> ReflectF constr
+prf 61955:61965 <> reflect_iff
+binder 61976:61976 <> P:310
+binder 61978:61978 <> b:311
+R61992:61996 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R62011:62011 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R61981:61987 LF.IndProp <> reflect ind
+R61989:61989 LF.IndProp <> P:310 var
+R61991:61991 LF.IndProp <> b:311 var
+R61998:62002 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R61997:61997 LF.IndProp <> P:310 var
+R62004:62006 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R62003:62003 LF.IndProp <> b:311 var
+R62007:62010 LF.Basics <> true constr
+prf 62588:62591 <> eqbP
+binder 62602:62602 <> n:312
+binder 62604:62604 <> m:313
+R62607:62613 LF.IndProp <> reflect ind
+R62617:62619 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R62616:62616 LF.IndProp <> n:312 var
+R62620:62620 LF.IndProp <> m:313 var
+R62625:62628 LF.Basics <> ::nat_scope:x_'=?'_x not
+R62624:62624 LF.IndProp <> n:312 var
+R62629:62629 LF.IndProp <> m:313 var
+R62660:62670 LF.IndProp <> iff_reflect thm
+R62660:62670 LF.IndProp <> iff_reflect thm
+R62681:62686 LF.Logic <> eqb_eq thm
+R62681:62686 LF.Logic <> eqb_eq thm
+R62681:62686 LF.Logic <> eqb_eq thm
+prf 63088:63107 <> filter_not_empty_In'
+binder 63118:63118 <> n:314
+binder 63120:63120 <> l:315
+R63157:63162 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R63151:63154 Coq.Init.Logic <> ::type_scope:x_'<>'_x not
+R63125:63130 LF.Poly <> filter def
+R63150:63150 LF.IndProp <> l:315 var
+binder 63137:63137 <> x:316
+R63143:63146 LF.Basics <> ::nat_scope:x_'=?'_x not
+R63142:63142 LF.IndProp <> n:314 var
+R63147:63147 LF.IndProp <> x:316 var
+R63155:63156 LF.Poly <> :::'['_']' not
+R63163:63164 LF.Logic <> In def
+R63168:63168 LF.IndProp <> l:315 var
+R63166:63166 LF.IndProp <> n:314 var
+R63324:63327 LF.IndProp <> eqbP thm
+R63324:63327 LF.IndProp <> eqbP thm
+def 63616:63620 <> count
+binder 63622:63622 <> n:317
+binder 63624:63624 <> l:318
+R63637:63637 LF.IndProp <> l:318 var
+R63648:63649 LF.Poly <> :::'['_']' not
+R63661:63664 LF.Poly <> :::x_'::'_x not
+R63671:63671 LF.Basics <> ::nat_scope:x_'+'_x not
+R63695:63698 LF.Basics <> ::nat_scope:x_'+'_x not
+R63676:63679 LF.Basics <> ::nat_scope:x_'=?'_x not
+R63675:63675 LF.IndProp <> n:317 var
+R63699:63703 LF.IndProp <> count:319 def
+R63705:63705 LF.IndProp <> n:317 var
+prf 63724:63731 <> plus_eq0
+binder 63742:63742 <> m:321
+binder 63744:63744 <> n:322
+R63756:63764 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R63752:63754 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R63748:63750 LF.Basics <> ::nat_scope:x_'+'_x not
+R63747:63747 LF.IndProp <> m:321 var
+R63751:63751 LF.IndProp <> n:322 var
+R63770:63773 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R63766:63768 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R63765:63765 LF.IndProp <> m:321 var
+R63775:63777 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R63774:63774 LF.IndProp <> n:322 var
+prf 63913:63925 <> eqbP_practice
+binder 63936:63936 <> n:323
+binder 63938:63938 <> l:324
+R63956:63959 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R63952:63954 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R63943:63947 LF.IndProp <> count def
+R63949:63949 LF.IndProp <> n:323 var
+R63951:63951 LF.IndProp <> l:324 var
+R63960:63961 Coq.Init.Logic <> ::type_scope:'~'_x not
+R63968:63968 Coq.Init.Logic <> ::type_scope:'~'_x not
+R63962:63963 LF.Logic <> In def
+R63967:63967 LF.IndProp <> l:324 var
+R63965:63965 LF.IndProp <> n:323 var
+R64099:64106 LF.IndProp <> plus_eq0 thm
+R64099:64106 LF.IndProp <> plus_eq0 thm
+R64169:64172 LF.Basics <> ::nat_scope:x_'=?'_x not
+R64169:64172 LF.Basics <> ::nat_scope:x_'=?'_x not
+R64296:64303 LF.Induction <> eqb_refl thm
+R64296:64303 LF.Induction <> eqb_refl thm
+R64296:64303 LF.Induction <> eqb_refl thm
+ind 65783:65791 <> nostutter
+constr 65846:65851 <> ns_nil
+constr 65872:65877 <> ns_one
+constr 65901:65907 <> ns_cons
+binder 65794:65794 <> X:325
+R65810:65813 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R65804:65807 LF.Poly <> list ind
+R65855:65863 LF.IndProp <> nostutter:326 ind
+R65865:65866 LF.Poly <> :::'['_']' not
+binder 65879:65879 <> x:328
+R65883:65891 LF.IndProp <> nostutter:326 ind
+R65893:65893 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R65895:65895 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R65894:65894 LF.IndProp <> x:328 var
+binder 65909:65909 <> x:329
+binder 65911:65912 <> x':330
+binder 65914:65914 <> l:331
+R65948:65966 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R65925:65928 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R65919:65922 Coq.Init.Logic <> ::type_scope:x_'<>'_x not
+R65918:65918 LF.IndProp <> x:329 var
+R65923:65924 LF.IndProp <> x':330 var
+R65929:65937 LF.IndProp <> nostutter:326 ind
+R65942:65945 LF.Poly <> :::x_'::'_x not
+R65940:65941 LF.IndProp <> x':330 var
+R65946:65946 LF.IndProp <> l:331 var
+R65967:65975 LF.IndProp <> nostutter:326 ind
+R65979:65982 LF.Poly <> :::x_'::'_x not
+R65978:65978 LF.IndProp <> x:329 var
+R65985:65988 LF.Poly <> :::x_'::'_x not
+R65983:65984 LF.IndProp <> x':330 var
+R65989:65989 LF.IndProp <> l:331 var
+def 66588:66603 <> test_nostutter_1
+R66606:66614 LF.IndProp <> nostutter ind
+R66616:66616 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R66618:66618 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R66620:66620 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R66622:66622 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R66624:66624 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R66626:66626 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R66628:66628 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R66686:66692 LF.Logic <> eqb_neq thm
+R66686:66692 LF.Logic <> eqb_neq thm
+R66686:66692 LF.Logic <> eqb_neq thm
+R66686:66692 LF.Logic <> eqb_neq thm
+R66686:66692 LF.Logic <> eqb_neq thm
+R66686:66692 LF.Logic <> eqb_neq thm
+def 66718:66733 <> test_nostutter_2
+R66737:66745 LF.IndProp <> nostutter ind
+R66749:66751 LF.Poly <> nil constr
+R66753:66755 Coq.Init.Datatypes <> nat ind
+R66792:66797 LF.IndProp <> ns_nil constr
+R66792:66797 LF.IndProp <> ns_nil constr
+def 66878:66893 <> test_nostutter_3
+R66897:66905 LF.IndProp <> nostutter ind
+R66907:66907 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R66909:66909 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R66945:66950 LF.IndProp <> ns_one constr
+R66945:66950 LF.IndProp <> ns_one constr
+def 67015:67030 <> test_nostutter_4
+R67038:67040 Coq.Init.Logic <> not def
+R67043:67051 LF.IndProp <> nostutter ind
+R67053:67053 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R67055:67055 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R67057:67057 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R67059:67059 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R67061:67061 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+def 67404:67429 <> manual_grade_for_nostutter
+R67433:67438 Coq.Init.Datatypes <> option ind
+R67444:67444 LF.Poly <> ::type_scope:x_'*'_x not
+R67441:67443 Coq.Init.Datatypes <> nat ind
+R67445:67450 Coq.Strings.String <> string ind
+R67456:67459 Coq.Init.Datatypes <> None constr
+def 68586:68618 <> manual_grade_for_filter_challenge
+R68622:68627 Coq.Init.Datatypes <> option ind
+R68633:68633 LF.Poly <> ::type_scope:x_'*'_x not
+R68630:68632 Coq.Init.Datatypes <> nat ind
+R68634:68639 Coq.Strings.String <> string ind
+R68645:68648 Coq.Init.Datatypes <> None constr
+def 69730:69769 <> manual_grade_for_pal_pal_app_rev_pal_rev
+R69773:69778 Coq.Init.Datatypes <> option ind
+R69784:69784 LF.Poly <> ::type_scope:x_'*'_x not
+R69781:69783 Coq.Init.Datatypes <> nat ind
+R69785:69790 Coq.Strings.String <> string ind
+R69796:69799 Coq.Init.Datatypes <> None constr
+def 71294:71328 <> manual_grade_for_NoDup_disjoint_etc
+R71332:71337 Coq.Init.Datatypes <> option ind
+R71343:71343 LF.Poly <> ::type_scope:x_'*'_x not
+R71340:71342 Coq.Init.Datatypes <> nat ind
+R71344:71349 Coq.Strings.String <> string ind
+R71355:71358 Coq.Init.Datatypes <> None constr
+prf 71816:71823 <> in_split
+binder 71835:71835 <> X:332
+R71846:71846 LF.IndProp <> X:332 var
+binder 71844:71844 <> x:333
+R71852:71855 LF.Poly <> list ind
+R71857:71857 LF.IndProp <> X:332 var
+binder 71850:71850 <> l:334
+R71869:71874 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R71863:71864 LF.Logic <> In def
+R71868:71868 LF.IndProp <> l:334 var
+R71866:71866 LF.IndProp <> x:333 var
+R71875:71881 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+R71887:71888 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+binder 71882:71883 <> l1:335
+binder 71885:71886 <> l2:336
+R71890:71892 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R71889:71889 LF.IndProp <> l:334 var
+R71895:71898 LF.Poly <> :::x_'++'_x not
+R71893:71894 LF.IndProp <> l1:335 var
+R71900:71903 LF.Poly <> :::x_'::'_x not
+R71899:71899 LF.IndProp <> x:333 var
+R71904:71905 LF.IndProp <> l2:336 var
+ind 72097:72103 <> repeats
+binder 72106:72106 <> X:337
+R72122:72125 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R72116:72119 LF.Poly <> list ind
+def 72209:72238 <> manual_grade_for_check_repeats
+R72242:72247 Coq.Init.Datatypes <> option ind
+R72253:72253 LF.Poly <> ::type_scope:x_'*'_x not
+R72250:72252 Coq.Init.Datatypes <> nat ind
+R72254:72259 Coq.Strings.String <> string ind
+R72265:72268 Coq.Init.Datatypes <> None constr
+prf 72959:72978 <> pigeonhole_principle
+binder 72989:72989 <> X:340
+R73005:73008 LF.Poly <> list ind
+R73010:73010 LF.IndProp <> X:340 var
+binder 72998:72999 <> l1:341
+binder 73002:73003 <> l2:342
+R73032:73038 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R73017:73031 LF.Logic <> excluded_middle def
+R73039:73039 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R73068:73075 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+binder 73047:73047 <> x:343
+R73057:73060 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R73050:73051 LF.Logic <> In def
+R73055:73056 LF.IndProp <> l1:341 var
+R73053:73053 LF.IndProp <> x:343 var
+R73061:73062 LF.Logic <> In def
+R73066:73067 LF.IndProp <> l2:342 var
+R73064:73064 LF.IndProp <> x:343 var
+R73097:73103 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R73085:73087 Coq.Init.Peano <> ::nat_scope:x_'<'_x not
+R73076:73081 LF.Poly <> length def
+R73083:73084 LF.IndProp <> l2:342 var
+R73088:73093 LF.Poly <> length def
+R73095:73096 LF.IndProp <> l1:341 var
+R73104:73110 LF.IndProp <> repeats ind
+R73112:73113 LF.IndProp <> l1:341 var
+R74694:74710 Coq.Strings.Ascii <> <> lib
+def 74725:74730 <> string
+R74735:74738 LF.Poly <> list ind
+R74740:74744 Coq.Strings.Ascii <> ascii ind
+prf 75900:75918 <> provable_equiv_true
+binder 75930:75930 <> P:344
+R75942:75946 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R75957:75957 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R75941:75941 LF.IndProp <> P:344 var
+R75948:75952 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R75947:75947 LF.IndProp <> P:344 var
+R75953:75956 Coq.Init.Logic <> True ind
+prf 76118:76132 <> not_equiv_false
+binder 76144:76144 <> P:345
+R76157:76161 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R76173:76173 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R76155:76155 Coq.Init.Logic <> ::type_scope:'~'_x not
+R76156:76156 LF.IndProp <> P:345 var
+R76163:76167 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R76162:76162 LF.IndProp <> P:345 var
+R76168:76172 Coq.Init.Logic <> False ind
+prf 76289:76305 <> null_matches_none
+R76321:76326 LF.IndProp <> string def
+binder 76317:76317 <> s:346
+R76330:76330 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R76344:76349 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R76332:76335 LF.IndProp <> :::x_'=~'_x not
+R76331:76331 LF.IndProp <> s:346 var
+R76336:76343 LF.IndProp <> EmptySet constr
+R76350:76354 Coq.Init.Logic <> False ind
+R76382:76396 LF.IndProp <> not_equiv_false thm
+R76382:76396 LF.IndProp <> not_equiv_false thm
+R76408:76410 Coq.Init.Logic <> not def
+prf 76495:76511 <> empty_matches_eps
+R76527:76532 LF.IndProp <> string def
+binder 76523:76523 <> s:347
+R76549:76553 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R76537:76540 LF.IndProp <> :::x_'=~'_x not
+R76536:76536 LF.IndProp <> s:347 var
+R76541:76548 LF.IndProp <> EmptyStr constr
+R76555:76557 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R76554:76554 LF.IndProp <> s:347 var
+R76558:76560 LF.Poly <> :::'['_']' not
+R76646:76651 LF.IndProp <> MEmpty constr
+R76646:76651 LF.IndProp <> MEmpty constr
+prf 76713:76728 <> empty_nomatch_ne
+R76744:76748 Coq.Strings.Ascii <> ascii ind
+binder 76740:76740 <> a:348
+binder 76751:76751 <> s:349
+R76754:76754 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R76773:76778 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R76761:76764 LF.IndProp <> :::x_'=~'_x not
+R76756:76759 LF.Poly <> :::x_'::'_x not
+R76755:76755 LF.IndProp <> a:348 var
+R76760:76760 LF.IndProp <> s:349 var
+R76765:76772 LF.IndProp <> EmptyStr constr
+R76779:76783 Coq.Init.Logic <> False ind
+R76811:76825 LF.IndProp <> not_equiv_false thm
+R76811:76825 LF.IndProp <> not_equiv_false thm
+R76837:76839 Coq.Init.Logic <> not def
+prf 76947:76963 <> char_nomatch_char
+R76983:76987 Coq.Strings.Ascii <> ascii ind
+binder 76977:76977 <> a:350
+binder 76979:76979 <> b:351
+binder 76990:76990 <> s:352
+R76999:77003 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R77030:77030 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R76994:76997 Coq.Init.Logic <> ::type_scope:x_'<>'_x not
+R76993:76993 LF.IndProp <> b:351 var
+R76998:76998 LF.IndProp <> a:350 var
+R77020:77024 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R77010:77013 LF.IndProp <> :::x_'=~'_x not
+R77005:77008 LF.Poly <> :::x_'::'_x not
+R77004:77004 LF.IndProp <> b:351 var
+R77009:77009 LF.IndProp <> s:352 var
+R77014:77017 LF.IndProp <> Char constr
+R77019:77019 LF.IndProp <> a:350 var
+R77025:77029 Coq.Init.Logic <> False ind
+R77058:77072 LF.IndProp <> not_equiv_false thm
+R77058:77072 LF.IndProp <> not_equiv_false thm
+R77084:77086 Coq.Init.Logic <> not def
+prf 77233:77247 <> char_eps_suffix
+R77263:77267 Coq.Strings.Ascii <> ascii ind
+binder 77259:77259 <> a:353
+binder 77270:77270 <> s:354
+R77289:77293 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R77279:77282 LF.IndProp <> :::x_'=~'_x not
+R77274:77277 LF.Poly <> :::x_'::'_x not
+R77273:77273 LF.IndProp <> a:353 var
+R77278:77278 LF.IndProp <> s:354 var
+R77283:77286 LF.IndProp <> Char constr
+R77288:77288 LF.IndProp <> a:353 var
+R77295:77297 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R77294:77294 LF.IndProp <> s:354 var
+R77298:77300 LF.Poly <> :::'['_']' not
+R77386:77390 LF.IndProp <> MChar constr
+R77386:77390 LF.IndProp <> MChar constr
+prf 77518:77527 <> app_exists
+R77543:77548 LF.IndProp <> string def
+binder 77539:77539 <> s:355
+binder 77551:77553 <> re0:356
+binder 77555:77557 <> re1:357
+R77580:77588 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R77565:77568 LF.IndProp <> :::x_'=~'_x not
+R77564:77564 LF.IndProp <> s:355 var
+R77569:77571 LF.IndProp <> App constr
+R77577:77579 LF.IndProp <> re1:357 var
+R77573:77575 LF.IndProp <> re0:356 var
+R77589:77595 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+R77601:77602 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+binder 77596:77597 <> s0:358
+binder 77599:77600 <> s1:359
+R77615:77618 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R77604:77606 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R77603:77603 LF.IndProp <> s:355 var
+R77609:77612 LF.Poly <> :::x_'++'_x not
+R77607:77608 LF.IndProp <> s0:358 var
+R77613:77614 LF.IndProp <> s1:359 var
+R77628:77631 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R77621:77624 LF.IndProp <> :::x_'=~'_x not
+R77619:77620 LF.IndProp <> s0:358 var
+R77625:77627 LF.IndProp <> re0:356 var
+R77634:77637 LF.IndProp <> :::x_'=~'_x not
+R77632:77633 LF.IndProp <> s1:359 var
+R77638:77640 LF.IndProp <> re1:357 var
+R77844:77847 LF.IndProp <> MApp constr
+R77844:77847 LF.IndProp <> MApp constr
+prf 78352:78357 <> app_ne
+R78373:78377 Coq.Strings.Ascii <> ascii ind
+binder 78369:78369 <> a:360
+binder 78380:78380 <> s:361
+binder 78382:78384 <> re0:362
+binder 78386:78388 <> re1:363
+R78418:78426 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R78401:78405 LF.IndProp <> :::x_'=~'_x not
+R78417:78417 LF.IndProp <> :::x_'=~'_x not
+R78396:78399 LF.Poly <> :::x_'::'_x not
+R78395:78395 LF.IndProp <> a:360 var
+R78400:78400 LF.IndProp <> s:361 var
+R78406:78408 LF.IndProp <> App constr
+R78414:78416 LF.IndProp <> re1:363 var
+R78410:78412 LF.IndProp <> re0:362 var
+R78427:78427 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R78455:78463 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R78438:78441 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R78431:78434 LF.IndProp <> :::x_'=~'_x not
+R78428:78430 LF.Poly <> :::'['_']' not
+R78435:78437 LF.IndProp <> re0:362 var
+R78448:78451 LF.IndProp <> :::x_'=~'_x not
+R78443:78446 LF.Poly <> :::x_'::'_x not
+R78442:78442 LF.IndProp <> a:360 var
+R78447:78447 LF.IndProp <> s:361 var
+R78452:78454 LF.IndProp <> re1:363 var
+R78464:78470 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+R78476:78477 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+binder 78471:78472 <> s0:364
+binder 78474:78475 <> s1:365
+R78490:78493 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R78479:78481 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R78478:78478 LF.IndProp <> s:361 var
+R78484:78487 LF.Poly <> :::x_'++'_x not
+R78482:78483 LF.IndProp <> s0:364 var
+R78488:78489 LF.IndProp <> s1:365 var
+R78508:78511 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R78501:78504 LF.IndProp <> :::x_'=~'_x not
+R78495:78498 LF.Poly <> :::x_'::'_x not
+R78494:78494 LF.IndProp <> a:360 var
+R78499:78500 LF.IndProp <> s0:364 var
+R78505:78507 LF.IndProp <> re0:362 var
+R78514:78517 LF.IndProp <> :::x_'=~'_x not
+R78512:78513 LF.IndProp <> s1:365 var
+R78518:78520 LF.IndProp <> re1:363 var
+prf 78657:78666 <> union_disj
+R78682:78687 LF.IndProp <> string def
+binder 78678:78678 <> s:366
+binder 78690:78692 <> re0:367
+binder 78694:78696 <> re1:368
+R78721:78725 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R78704:78707 LF.IndProp <> :::x_'=~'_x not
+R78703:78703 LF.IndProp <> s:366 var
+R78708:78712 LF.IndProp <> Union constr
+R78718:78720 LF.IndProp <> re1:368 var
+R78714:78716 LF.IndProp <> re0:367 var
+R78734:78737 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R78727:78730 LF.IndProp <> :::x_'=~'_x not
+R78726:78726 LF.IndProp <> s:366 var
+R78731:78733 LF.IndProp <> re0:367 var
+R78739:78742 LF.IndProp <> :::x_'=~'_x not
+R78738:78738 LF.IndProp <> s:366 var
+R78743:78745 LF.IndProp <> re1:368 var
+R78876:78882 LF.IndProp <> MUnionL constr
+R78876:78882 LF.IndProp <> MUnionL constr
+R78906:78912 LF.IndProp <> MUnionR constr
+R78906:78912 LF.IndProp <> MUnionR constr
+prf 79721:79727 <> star_ne
+R79743:79747 Coq.Strings.Ascii <> ascii ind
+binder 79739:79739 <> a:369
+binder 79750:79750 <> s:370
+binder 79752:79753 <> re:371
+R79777:79785 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R79766:79769 LF.IndProp <> :::x_'=~'_x not
+R79761:79764 LF.Poly <> :::x_'::'_x not
+R79760:79760 LF.IndProp <> a:369 var
+R79765:79765 LF.IndProp <> s:370 var
+R79770:79773 LF.IndProp <> Star constr
+R79775:79776 LF.IndProp <> re:371 var
+R79786:79792 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+R79798:79799 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+binder 79793:79794 <> s0:372
+binder 79796:79797 <> s1:373
+R79812:79815 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R79801:79803 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R79800:79800 LF.IndProp <> s:370 var
+R79806:79809 LF.Poly <> :::x_'++'_x not
+R79804:79805 LF.IndProp <> s0:372 var
+R79810:79811 LF.IndProp <> s1:373 var
+R79829:79832 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R79823:79826 LF.IndProp <> :::x_'=~'_x not
+R79817:79820 LF.Poly <> :::x_'::'_x not
+R79816:79816 LF.IndProp <> a:369 var
+R79821:79822 LF.IndProp <> s0:372 var
+R79827:79828 LF.IndProp <> re:371 var
+R79835:79838 LF.IndProp <> :::x_'=~'_x not
+R79833:79834 LF.IndProp <> s1:373 var
+R79839:79842 LF.IndProp <> Star constr
+R79844:79845 LF.IndProp <> re:371 var
+def 80166:80181 <> refl_matches_eps
+binder 80183:80183 <> m:374
+R80202:80208 LF.IndProp <> reg_exp ind
+R80210:80214 Coq.Strings.Ascii <> ascii ind
+binder 80197:80198 <> re:375
+R80217:80223 LF.IndProp <> reflect ind
+R80229:80232 LF.IndProp <> :::x_'=~'_x not
+R80226:80228 LF.Poly <> :::'['_']' not
+R80233:80234 LF.IndProp <> re:375 var
+R80238:80238 LF.IndProp <> m:374 var
+R80240:80241 LF.IndProp <> re:375 var
+def 80426:80434 <> match_eps
+R80441:80447 LF.IndProp <> reg_exp ind
+R80449:80453 Coq.Strings.Ascii <> ascii ind
+binder 80437:80438 <> re:376
+R80458:80461 LF.Basics <> bool ind
+prf 80789:80802 <> match_eps_refl
+R80806:80821 LF.IndProp <> refl_matches_eps def
+R80823:80831 LF.IndProp <> match_eps prfax
+def 81476:81481 <> is_der
+binder 81483:81484 <> re:378
+R81491:81495 Coq.Strings.Ascii <> ascii ind
+binder 81487:81487 <> a:379
+binder 81498:81500 <> re':380
+binder 81514:81514 <> s:381
+R81529:81533 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R81523:81526 LF.IndProp <> :::x_'=~'_x not
+R81518:81521 LF.Poly <> :::x_'::'_x not
+R81517:81517 LF.IndProp <> a:379 var
+R81522:81522 LF.IndProp <> s:381 var
+R81527:81528 LF.IndProp <> re:378 var
+R81535:81538 LF.IndProp <> :::x_'=~'_x not
+R81534:81534 LF.IndProp <> s:381 var
+R81539:81541 LF.IndProp <> re':380 var
+def 81733:81739 <> derives
+binder 81741:81741 <> d:382
+binder 81753:81753 <> a:383
+binder 81755:81756 <> re:384
+R81759:81764 LF.IndProp <> is_der def
+R81766:81767 LF.IndProp <> re:384 var
+R81769:81769 LF.IndProp <> a:383 var
+R81772:81772 LF.IndProp <> d:382 var
+R81774:81774 LF.IndProp <> a:383 var
+R81776:81777 LF.IndProp <> re:384 var
+def 82018:82023 <> derive
+R82030:82034 Coq.Strings.Ascii <> ascii ind
+binder 82026:82026 <> a:385
+R82043:82049 LF.IndProp <> reg_exp ind
+R82051:82055 Coq.Strings.Ascii <> ascii ind
+binder 82038:82039 <> re:386
+R82060:82066 LF.IndProp <> reg_exp ind
+R82068:82072 Coq.Strings.Ascii <> ascii ind
+def 82463:82463 <> c
+R82468:82479 Coq.Strings.Ascii <> ascii_of_nat def
+def 82493:82493 <> d
+R82498:82509 Coq.Strings.Ascii <> ascii_of_nat def
+def 82549:82557 <> test_der0
+R82592:82594 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R82561:82569 LF.IndProp <> match_eps prfax
+R82572:82577 LF.IndProp <> derive prfax
+R82579:82579 LF.IndProp <> c ex
+R82582:82589 LF.IndProp <> EmptySet constr
+R82595:82599 LF.Basics <> false constr
+def 82671:82679 <> test_der1
+R82712:82714 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R82683:82691 LF.IndProp <> match_eps prfax
+R82694:82699 LF.IndProp <> derive prfax
+R82701:82701 LF.IndProp <> c ex
+R82704:82707 LF.IndProp <> Char constr
+R82709:82709 LF.IndProp <> c ex
+R82715:82718 LF.Basics <> true constr
+def 82790:82798 <> test_der2
+R82831:82833 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R82802:82810 LF.IndProp <> match_eps prfax
+R82813:82818 LF.IndProp <> derive prfax
+R82820:82820 LF.IndProp <> c ex
+R82823:82826 LF.IndProp <> Char constr
+R82828:82828 LF.IndProp <> d ex
+R82834:82838 LF.Basics <> false constr
+def 82925:82933 <> test_der3
+R82981:82983 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R82937:82945 LF.IndProp <> match_eps prfax
+R82948:82953 LF.IndProp <> derive prfax
+R82955:82955 LF.IndProp <> c ex
+R82958:82960 LF.IndProp <> App constr
+R82971:82978 LF.IndProp <> EmptyStr constr
+R82963:82966 LF.IndProp <> Char constr
+R82968:82968 LF.IndProp <> c ex
+R82984:82987 LF.Basics <> true constr
+def 83074:83082 <> test_der4
+R83130:83132 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R83086:83094 LF.IndProp <> match_eps prfax
+R83097:83102 LF.IndProp <> derive prfax
+R83104:83104 LF.IndProp <> c ex
+R83107:83109 LF.IndProp <> App constr
+R83121:83124 LF.IndProp <> Char constr
+R83126:83126 LF.IndProp <> c ex
+R83111:83118 LF.IndProp <> EmptyStr constr
+R83133:83136 LF.Basics <> true constr
+def 83208:83216 <> test_der5
+R83256:83258 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R83220:83228 LF.IndProp <> match_eps prfax
+R83231:83236 LF.IndProp <> derive prfax
+R83238:83238 LF.IndProp <> c ex
+R83241:83244 LF.IndProp <> Star constr
+R83247:83250 LF.IndProp <> Char constr
+R83252:83252 LF.IndProp <> c ex
+R83259:83262 LF.Basics <> true constr
+def 83350:83358 <> test_der6
+R83419:83421 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R83364:83372 LF.IndProp <> match_eps prfax
+R83375:83380 LF.IndProp <> derive prfax
+R83382:83382 LF.IndProp <> d ex
+R83385:83390 LF.IndProp <> derive prfax
+R83392:83392 LF.IndProp <> c ex
+R83395:83397 LF.IndProp <> App constr
+R83409:83412 LF.IndProp <> Char constr
+R83414:83414 LF.IndProp <> d ex
+R83400:83403 LF.IndProp <> Char constr
+R83405:83405 LF.IndProp <> c ex
+R83422:83425 LF.Basics <> true constr
+def 83513:83521 <> test_der7
+R83582:83584 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R83527:83535 LF.IndProp <> match_eps prfax
+R83538:83543 LF.IndProp <> derive prfax
+R83545:83545 LF.IndProp <> d ex
+R83548:83553 LF.IndProp <> derive prfax
+R83555:83555 LF.IndProp <> c ex
+R83558:83560 LF.IndProp <> App constr
+R83572:83575 LF.IndProp <> Char constr
+R83577:83577 LF.IndProp <> c ex
+R83563:83566 LF.IndProp <> Char constr
+R83568:83568 LF.IndProp <> d ex
+R83585:83589 LF.Basics <> false constr
+prf 84669:84679 <> derive_corr
+R84683:84689 LF.IndProp <> derives def
+R84691:84696 LF.IndProp <> derive prfax
+def 85139:85151 <> matches_regex
+binder 85153:85153 <> m:388
+R85179:85184 LF.IndProp <> string def
+binder 85175:85175 <> s:389
+binder 85187:85188 <> re:390
+R85191:85197 LF.IndProp <> reflect ind
+R85201:85204 LF.IndProp <> :::x_'=~'_x not
+R85200:85200 LF.IndProp <> s:389 var
+R85205:85206 LF.IndProp <> re:390 var
+R85210:85210 LF.IndProp <> m:388 var
+R85212:85212 LF.IndProp <> s:389 var
+R85214:85215 LF.IndProp <> re:390 var
+def 85372:85382 <> regex_match
+R85389:85394 LF.IndProp <> string def
+binder 85385:85385 <> s:391
+R85403:85409 LF.IndProp <> reg_exp ind
+R85411:85415 Coq.Strings.Ascii <> ascii ind
+binder 85398:85399 <> re:392
+R85420:85423 LF.Basics <> bool ind
+prf 86144:86153 <> regex_refl
+R86157:86169 LF.IndProp <> matches_regex def
+R86171:86181 LF.IndProp <> regex_match prfax

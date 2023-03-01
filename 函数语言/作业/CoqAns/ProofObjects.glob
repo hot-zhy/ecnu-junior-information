@@ -1,0 +1,588 @@
+DIGEST a952ed6a17276b66b888776a572102e1
+FLF.ProofObjects
+R125:131 LF.IndProp <> <> lib
+R1817:1818 LF.IndProp <> ev ind
+binder 2860:2860 <> n:1
+R2871:2878 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2867:2868 LF.IndProp <> ev ind
+R2870:2870 LF.ProofObjects <> n:1 var
+R2879:2880 LF.IndProp <> ev ind
+R2883:2883 Coq.Init.Datatypes <> S constr
+R2886:2886 Coq.Init.Datatypes <> S constr
+R2888:2888 LF.ProofObjects <> n:1 var
+R2843:2847 LF.IndProp <> ev_SS constr
+prf 3167:3170 <> ev_4
+R3174:3175 LF.IndProp <> ev ind
+R3195:3199 LF.IndProp <> ev_SS constr
+R3195:3199 LF.IndProp <> ev_SS constr
+R3208:3212 LF.IndProp <> ev_SS constr
+R3208:3212 LF.IndProp <> ev_SS constr
+R3221:3224 LF.IndProp <> ev_0 constr
+R3221:3224 LF.IndProp <> ev_0 constr
+R3393:3396 LF.ProofObjects <> ev_4 thm
+R3608:3609 LF.IndProp <> ev ind
+R3580:3584 LF.IndProp <> ev_SS constr
+R3589:3593 LF.IndProp <> ev_SS constr
+R3597:3600 LF.IndProp <> ev_0 constr
+prf 4597:4601 <> ev_4'
+R4604:4605 LF.IndProp <> ev ind
+R4626:4630 LF.IndProp <> ev_SS constr
+R4635:4639 LF.IndProp <> ev_SS constr
+R4643:4646 LF.IndProp <> ev_0 constr
+R4626:4630 LF.IndProp <> ev_SS constr
+R4635:4639 LF.IndProp <> ev_SS constr
+R4643:4646 LF.IndProp <> ev_0 constr
+prf 5305:5310 <> ev_4''
+R5314:5315 LF.IndProp <> ev ind
+R5349:5353 LF.IndProp <> ev_SS constr
+R5349:5353 LF.IndProp <> ev_SS constr
+R5378:5382 LF.IndProp <> ev_SS constr
+R5378:5382 LF.IndProp <> ev_SS constr
+R5407:5410 LF.IndProp <> ev_0 constr
+R5407:5410 LF.IndProp <> ev_0 constr
+def 6138:6144 <> ev_4'''
+R6148:6149 LF.IndProp <> ev ind
+R6158:6162 LF.IndProp <> ev_SS constr
+R6167:6171 LF.IndProp <> ev_SS constr
+R6175:6178 LF.IndProp <> ev_0 constr
+R6321:6324 LF.ProofObjects <> ev_4 thm
+R6386:6390 LF.ProofObjects <> ev_4' thm
+R6452:6457 LF.ProofObjects <> ev_4'' thm
+R6519:6525 LF.ProofObjects <> ev_4''' def
+prf 6713:6716 <> ev_8
+R6720:6721 LF.IndProp <> ev ind
+R6764:6768 LF.IndProp <> ev_SS constr
+R6773:6777 LF.IndProp <> ev_SS constr
+R6782:6786 LF.IndProp <> ev_SS constr
+R6791:6795 LF.IndProp <> ev_SS constr
+R6799:6802 LF.IndProp <> ev_0 constr
+R6764:6768 LF.IndProp <> ev_SS constr
+R6773:6777 LF.IndProp <> ev_SS constr
+R6782:6786 LF.IndProp <> ev_SS constr
+R6791:6795 LF.IndProp <> ev_SS constr
+R6799:6802 LF.IndProp <> ev_0 constr
+def 6826:6830 <> ev_8'
+R6834:6835 LF.IndProp <> ev ind
+R6900:6904 LF.IndProp <> ev_SS constr
+R6909:6913 LF.IndProp <> ev_SS constr
+R6918:6922 LF.IndProp <> ev_SS constr
+R6927:6931 LF.IndProp <> ev_SS constr
+R6935:6938 LF.IndProp <> ev_0 constr
+prf 7588:7595 <> ev_plus4
+binder 7606:7606 <> n:2
+R7613:7616 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R7609:7610 LF.IndProp <> ev ind
+R7612:7612 LF.ProofObjects <> n:2 var
+R7617:7618 LF.IndProp <> ev ind
+R7622:7624 LF.Basics <> ::nat_scope:x_'+'_x not
+R7625:7625 LF.ProofObjects <> n:2 var
+R7665:7669 LF.IndProp <> ev_SS constr
+R7665:7669 LF.IndProp <> ev_SS constr
+R7680:7684 LF.IndProp <> ev_SS constr
+R7680:7684 LF.IndProp <> ev_SS constr
+def 8007:8015 <> ev_plus4'
+binder 8026:8026 <> n:3
+R8033:8036 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R8029:8030 LF.IndProp <> ev ind
+R8032:8032 LF.ProofObjects <> n:3 var
+R8037:8038 LF.IndProp <> ev ind
+R8042:8044 LF.Basics <> ::nat_scope:x_'+'_x not
+R8045:8045 LF.ProofObjects <> n:3 var
+R8062:8064 Coq.Init.Datatypes <> nat ind
+binder 8058:8058 <> n:4
+R8079:8080 LF.IndProp <> ev ind
+R8082:8082 LF.ProofObjects <> n:4 var
+binder 8075:8075 <> H:5
+R8092:8096 LF.IndProp <> ev_SS constr
+R8099:8099 Coq.Init.Datatypes <> S constr
+R8102:8102 Coq.Init.Datatypes <> S constr
+R8104:8104 LF.ProofObjects <> n:4 var
+R8109:8113 LF.IndProp <> ev_SS constr
+R8115:8115 LF.ProofObjects <> n:4 var
+R8117:8117 LF.ProofObjects <> H:5 var
+def 8345:8354 <> ev_plus4''
+R8361:8363 Coq.Init.Datatypes <> nat ind
+binder 8357:8357 <> n:6
+R8371:8372 LF.IndProp <> ev ind
+R8374:8374 LF.ProofObjects <> n:6 var
+binder 8367:8367 <> H:7
+R8399:8400 LF.IndProp <> ev ind
+R8404:8406 LF.Basics <> ::nat_scope:x_'+'_x not
+R8407:8407 LF.ProofObjects <> n:6 var
+R8415:8419 LF.IndProp <> ev_SS constr
+R8422:8422 Coq.Init.Datatypes <> S constr
+R8425:8425 Coq.Init.Datatypes <> S constr
+R8427:8427 LF.ProofObjects <> n:6 var
+R8432:8436 LF.IndProp <> ev_SS constr
+R8438:8438 LF.ProofObjects <> n:6 var
+R8440:8440 LF.ProofObjects <> H:7 var
+R8477:8479 Coq.Init.Datatypes <> nat ind
+binder 8473:8473 <> n:8
+R8490:8497 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R8486:8487 LF.IndProp <> ev ind
+R8489:8489 LF.ProofObjects <> n:8 var
+R8498:8499 LF.IndProp <> ev ind
+R8503:8505 LF.Basics <> ::nat_scope:x_'+'_x not
+R8506:8506 LF.ProofObjects <> n:8 var
+R8451:8460 LF.ProofObjects <> ev_plus4'' def
+def 9435:9442 <> ev_plus2
+binder 9463:9463 <> n:9
+R9478:9479 LF.IndProp <> ev ind
+R9481:9481 LF.ProofObjects <> n:9 var
+binder 9474:9474 <> E:10
+R9485:9486 LF.IndProp <> ev ind
+R9490:9492 LF.Basics <> ::nat_scope:x_'+'_x not
+R9489:9489 LF.ProofObjects <> n:9 var
+def 9912:9920 <> ev_plus2'
+binder 9941:9941 <> n:11
+R9956:9957 LF.IndProp <> ev ind
+R9959:9959 LF.ProofObjects <> n:11 var
+R9963:9964 LF.IndProp <> ev ind
+R9968:9970 LF.Basics <> ::nat_scope:x_'+'_x not
+R9967:9967 LF.ProofObjects <> n:11 var
+def 10053:10062 <> ev_plus2''
+binder 10083:10083 <> n:12
+R10090:10093 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10086:10087 LF.IndProp <> ev ind
+R10089:10089 LF.ProofObjects <> n:12 var
+R10094:10095 LF.IndProp <> ev ind
+R10099:10101 LF.Basics <> ::nat_scope:x_'+'_x not
+R10098:10098 LF.ProofObjects <> n:12 var
+def 10542:10545 <> add1
+R10552:10555 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10549:10551 Coq.Init.Datatypes <> nat ind
+R10556:10558 Coq.Init.Datatypes <> nat ind
+R10588:10588 Coq.Init.Datatypes <> S constr
+R10588:10588 Coq.Init.Datatypes <> S constr
+R10628:10631 LF.ProofObjects <> add1 def
+R10705:10708 LF.ProofObjects <> add1 def
+mod 11836:11840 <> Props
+mod 12219:12221 <> Props.And
+ind 12235:12237 Props.And and
+constr 12264:12267 Props.And conj
+binder 12240:12240 <> P:13
+binder 12242:12242 <> Q:14
+R12272:12275 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R12271:12271 LF.ProofObjects <> P:13 var
+R12277:12280 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R12276:12276 LF.ProofObjects <> Q:14 var
+R12281:12283 LF.ProofObjects <> and:15 ind
+R12287:12287 LF.ProofObjects <> Q:14 var
+R12285:12285 LF.ProofObjects <> P:13 var
+R12301:12304 LF.ProofObjects Props.And conj constr
+R12301:12304 LF.ProofObjects Props.And conj constr
+R12338:12340 LF.ProofObjects Props.And and ind
+not 12325:12325 Props.And ::type_scope:x_'/\'_x
+R12568:12571 LF.Poly <> prod ind
+prf 12920:12925 Props.And proj1'
+binder 12936:12936 <> P:17
+binder 12938:12938 <> Q:18
+R12951:12954 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R12946:12949 LF.ProofObjects Props.And ::type_scope:x_'/\'_x not
+R12945:12945 LF.ProofObjects <> P:17 var
+R12950:12950 LF.ProofObjects <> Q:18 var
+R12955:12955 LF.ProofObjects <> P:17 var
+prf 13211:13218 Props.And and_comm
+binder 13229:13229 <> P:19
+binder 13231:13231 <> Q:20
+R13247:13251 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R13242:13245 LF.ProofObjects Props.And ::type_scope:x_'/\'_x not
+R13241:13241 LF.ProofObjects <> P:19 var
+R13246:13246 LF.ProofObjects <> Q:20 var
+R13253:13256 LF.ProofObjects Props.And ::type_scope:x_'/\'_x not
+R13252:13252 LF.ProofObjects <> Q:20 var
+R13257:13257 LF.ProofObjects <> P:19 var
+R13416:13418 LF.ProofObjects Props.And <> mod
+def 13634:13646 Props and_comm'_aux
+binder 13648:13648 <> P:21
+binder 13650:13650 <> Q:22
+R13658:13661 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R13657:13657 LF.ProofObjects <> P:21 var
+R13662:13662 LF.ProofObjects <> Q:22 var
+binder 13653:13653 <> H:23
+R13668:13671 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R13667:13667 LF.ProofObjects <> Q:22 var
+R13672:13672 LF.ProofObjects <> P:21 var
+R13685:13685 LF.ProofObjects <> H:23 var
+R13696:13699 Coq.Init.Logic <> conj constr
+R13710:13713 Coq.Init.Logic <> conj constr
+def 13740:13748 Props and_comm'
+binder 13750:13750 <> P:25
+binder 13752:13752 <> Q:26
+R13762:13766 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R13757:13760 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R13756:13756 LF.ProofObjects <> P:25 var
+R13761:13761 LF.ProofObjects <> Q:26 var
+R13768:13771 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R13767:13767 LF.ProofObjects <> Q:26 var
+R13772:13772 LF.ProofObjects <> P:25 var
+R13779:13782 Coq.Init.Logic <> conj constr
+R13805:13817 LF.ProofObjects Props and_comm'_aux def
+R13819:13819 LF.ProofObjects <> Q:26 var
+R13821:13821 LF.ProofObjects <> P:25 var
+R13785:13797 LF.ProofObjects Props and_comm'_aux def
+R13799:13799 LF.ProofObjects <> P:25 var
+R13801:13801 LF.ProofObjects <> Q:26 var
+def 13952:13960 Props conj_fact
+binder 13971:13971 <> P:27
+binder 13973:13973 <> Q:28
+binder 13975:13975 <> R:29
+R13984:13987 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R13979:13982 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R13978:13978 LF.ProofObjects <> P:27 var
+R13983:13983 LF.ProofObjects <> Q:28 var
+R13994:13997 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R13989:13992 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R13988:13988 LF.ProofObjects <> Q:28 var
+R13993:13993 LF.ProofObjects <> R:29 var
+R13999:14002 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R13998:13998 LF.ProofObjects <> P:27 var
+R14003:14003 LF.ProofObjects <> R:29 var
+binder 14071:14071 <> P:30
+binder 14073:14073 <> Q:31
+binder 14075:14075 <> R:32
+R14092:14095 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R14091:14091 LF.ProofObjects <> P:30 var
+R14096:14096 LF.ProofObjects <> Q:31 var
+binder 14086:14087 <> H1:33
+R14106:14109 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R14105:14105 LF.ProofObjects <> Q:31 var
+R14110:14110 LF.ProofObjects <> R:32 var
+binder 14100:14101 <> H2:34
+R14124:14125 LF.ProofObjects <> H1:33 var
+R14138:14141 Coq.Init.Logic <> conj constr
+R14157:14158 LF.ProofObjects <> H2:34 var
+R14186:14189 Coq.Init.Logic <> conj constr
+R14199:14202 Coq.Init.Logic <> conj constr
+R14246:14254 LF.ProofObjects Props conj_fact def
+def 14268:14277 Props conj_fact'
+binder 14288:14288 <> P:37
+binder 14290:14290 <> Q:38
+binder 14292:14292 <> R:39
+R14301:14304 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R14296:14299 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R14295:14295 LF.ProofObjects <> P:37 var
+R14300:14300 LF.ProofObjects <> Q:38 var
+R14311:14314 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R14306:14309 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R14305:14305 LF.ProofObjects <> Q:38 var
+R14310:14310 LF.ProofObjects <> R:39 var
+R14316:14319 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R14315:14315 LF.ProofObjects <> P:37 var
+R14320:14320 LF.ProofObjects <> R:39 var
+R14436:14445 LF.ProofObjects Props conj_fact' def
+mod 14671:14672 <> Props.Or
+ind 14686:14687 Props.Or or
+constr 14714:14722 Props.Or or_introl
+constr 14740:14748 Props.Or or_intror
+binder 14690:14690 <> P:40
+binder 14692:14692 <> Q:41
+R14727:14730 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R14726:14726 LF.ProofObjects <> P:40 var
+R14731:14732 LF.ProofObjects <> or:42 ind
+R14736:14736 LF.ProofObjects <> Q:41 var
+R14734:14734 LF.ProofObjects <> P:40 var
+R14753:14756 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R14752:14752 LF.ProofObjects <> Q:41 var
+R14757:14758 LF.ProofObjects <> or:42 ind
+R14762:14762 LF.ProofObjects <> Q:41 var
+R14760:14760 LF.ProofObjects <> P:40 var
+R14776:14784 LF.ProofObjects Props.Or or_introl constr
+R14776:14784 LF.ProofObjects Props.Or or_introl constr
+R14805:14813 LF.ProofObjects Props.Or or_intror constr
+R14805:14813 LF.ProofObjects Props.Or or_intror constr
+R14847:14848 LF.ProofObjects Props.Or or ind
+not 14834:14834 Props.Or ::type_scope:x_'\/'_x
+def 15205:15209 Props.Or inj_l
+binder 15221:15221 <> P:44
+binder 15223:15223 <> Q:45
+R15235:15238 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R15234:15234 LF.ProofObjects <> P:44 var
+R15240:15243 LF.ProofObjects Props.Or ::type_scope:x_'\/'_x not
+R15239:15239 LF.ProofObjects <> P:44 var
+R15244:15244 LF.ProofObjects <> Q:45 var
+binder 15255:15255 <> P:46
+binder 15257:15257 <> Q:47
+binder 15259:15260 <> HP:48
+R15265:15273 LF.ProofObjects Props.Or or_introl constr
+R15275:15276 LF.ProofObjects <> HP:48 var
+prf 15288:15293 Props.Or inj_l'
+binder 15305:15305 <> P:49
+binder 15307:15307 <> Q:50
+R15319:15322 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R15318:15318 LF.ProofObjects <> P:49 var
+R15324:15327 LF.ProofObjects Props.Or ::type_scope:x_'\/'_x not
+R15323:15323 LF.ProofObjects <> P:49 var
+R15328:15328 LF.ProofObjects <> Q:50 var
+def 15388:15394 Props.Or or_elim
+binder 15406:15406 <> P:51
+binder 15408:15408 <> Q:52
+binder 15410:15410 <> R:53
+R15421:15421 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R15428:15432 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R15423:15426 LF.ProofObjects Props.Or ::type_scope:x_'\/'_x not
+R15422:15422 LF.ProofObjects <> P:51 var
+R15427:15427 LF.ProofObjects <> Q:52 var
+R15433:15433 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R15440:15444 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R15435:15438 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R15434:15434 LF.ProofObjects <> P:51 var
+R15439:15439 LF.ProofObjects <> R:53 var
+R15445:15445 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R15452:15456 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R15447:15450 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R15446:15446 LF.ProofObjects <> Q:52 var
+R15451:15451 LF.ProofObjects <> R:53 var
+R15457:15457 LF.ProofObjects <> R:53 var
+binder 15468:15468 <> P:54
+binder 15470:15470 <> Q:55
+binder 15472:15472 <> R:56
+binder 15474:15476 <> HPQ:57
+binder 15478:15480 <> HPR:58
+binder 15482:15484 <> HQR:59
+R15499:15501 LF.ProofObjects <> HPQ:57 var
+R15514:15522 LF.ProofObjects Props.Or or_introl constr
+R15530:15532 LF.ProofObjects <> HPR:58 var
+R15543:15551 LF.ProofObjects Props.Or or_intror constr
+R15559:15561 LF.ProofObjects <> HQR:59 var
+prf 15584:15591 Props.Or or_elim'
+binder 15603:15603 <> P:61
+binder 15605:15605 <> Q:62
+binder 15607:15607 <> R:63
+R15618:15618 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R15625:15629 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R15620:15623 LF.ProofObjects Props.Or ::type_scope:x_'\/'_x not
+R15619:15619 LF.ProofObjects <> P:61 var
+R15624:15624 LF.ProofObjects <> Q:62 var
+R15630:15630 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R15637:15641 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R15632:15635 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R15631:15631 LF.ProofObjects <> P:61 var
+R15636:15636 LF.ProofObjects <> R:63 var
+R15642:15642 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R15649:15653 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R15644:15647 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R15643:15643 LF.ProofObjects <> Q:62 var
+R15648:15648 LF.ProofObjects <> R:63 var
+R15654:15654 LF.ProofObjects <> R:63 var
+R15781:15782 LF.ProofObjects Props.Or <> mod
+def 15913:15922 Props or_commut'
+binder 15933:15933 <> P:64
+binder 15935:15935 <> Q:65
+R15944:15947 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R15939:15942 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R15938:15938 LF.ProofObjects <> P:64 var
+R15943:15943 LF.ProofObjects <> Q:65 var
+R15949:15952 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R15948:15948 LF.ProofObjects <> Q:65 var
+R15953:15953 LF.ProofObjects <> P:64 var
+binder 16021:16021 <> P:66
+binder 16023:16023 <> Q:67
+R16041:16044 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R16040:16040 LF.ProofObjects <> P:66 var
+R16045:16045 LF.ProofObjects <> Q:67 var
+binder 16034:16036 <> HPQ:68
+R16061:16063 LF.ProofObjects <> HPQ:68 var
+R16077:16085 Coq.Init.Logic <> or_introl constr
+R16093:16101 Coq.Init.Logic <> or_intror constr
+R16113:16121 Coq.Init.Logic <> or_intror constr
+R16129:16137 Coq.Init.Logic <> or_introl constr
+prf 16161:16171 Props or_commut''
+binder 16182:16182 <> P:70
+binder 16184:16184 <> Q:71
+R16193:16196 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R16188:16191 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R16187:16187 LF.ProofObjects <> P:70 var
+R16192:16192 LF.ProofObjects <> Q:71 var
+R16198:16201 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R16197:16197 LF.ProofObjects <> Q:71 var
+R16202:16202 LF.ProofObjects <> P:70 var
+R16213:16222 LF.ProofObjects Props or_commut' def
+R16213:16222 LF.ProofObjects Props or_commut' def
+mod 16506:16507 <> Props.Ex
+ind 16521:16522 Props.Ex ex
+constr 16563:16570 Props.Ex ex_intro
+binder 16525:16525 <> A:72
+R16541:16544 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R16540:16540 LF.ProofObjects <> A:72 var
+binder 16536:16536 <> P:73
+R16585:16585 LF.ProofObjects <> A:72 var
+binder 16581:16581 <> x:76
+R16591:16594 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R16588:16588 LF.ProofObjects <> P:73 var
+R16590:16590 LF.ProofObjects <> x:76 var
+R16595:16596 LF.ProofObjects <> ex:74 ind
+R16598:16598 LF.ProofObjects <> P:73 var
+R16634:16635 LF.ProofObjects Props.Ex ex ind
+binder 16642:16642 <> x:77
+not 16611:16611 Props.Ex ::type_scope:'exists'_x_','_x
+R16710:16711 LF.ProofObjects Props.Ex <> mod
+R17335:17336 Coq.Init.Logic <> ex ind
+binder 17343:17343 <> n:78
+R17348:17349 LF.IndProp <> ev ind
+R17351:17351 LF.ProofObjects <> n:78 var
+def 17444:17459 Props some_nat_is_even
+R17463:17469 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+R17471:17472 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+binder 17470:17470 <> n:79
+R17473:17474 LF.IndProp <> ev ind
+R17476:17476 LF.ProofObjects <> n:79 var
+R17483:17490 Coq.Init.Logic <> ex_intro constr
+R17498:17502 LF.IndProp <> ev_SS constr
+R17507:17511 LF.IndProp <> ev_SS constr
+R17515:17518 LF.IndProp <> ev_0 constr
+R17492:17493 LF.IndProp <> ev ind
+def 17649:17656 Props ex_ev_Sn
+R17660:17661 Coq.Init.Logic <> ex ind
+binder 17668:17668 <> n:80
+R17673:17674 LF.IndProp <> ev ind
+R17677:17677 Coq.Init.Datatypes <> S constr
+R17679:17679 LF.ProofObjects <> n:80 var
+R17744:17751 Coq.Init.Logic <> ex_intro constr
+R17776:17780 LF.IndProp <> ev_SS constr
+R17784:17787 LF.IndProp <> ev_0 constr
+binder 17758:17758 <> n:81
+R17763:17764 LF.IndProp <> ev ind
+R17767:17767 Coq.Init.Datatypes <> S constr
+R17769:17769 LF.ProofObjects <> n:81 var
+ind 17984:17987 Props True
+constr 18003:18003 Props I
+R18007:18010 LF.ProofObjects <> True:82 ind
+def 18272:18285 Props p_implies_true
+binder 18296:18296 <> P:84
+R18300:18303 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R18299:18299 LF.ProofObjects <> P:84 var
+R18304:18307 LF.ProofObjects Props True ind
+R18381:18381 LF.ProofObjects Props I constr
+ind 18513:18517 Props False
+def 18780:18785 Props contra
+R18789:18793 LF.ProofObjects Props False ind
+R18801:18803 Coq.Init.Logic <> ::type_scope:x_'='_x not
+def 19058:19082 Props false_implies_zero_eq_one
+R19091:19094 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R19086:19090 LF.ProofObjects Props False ind
+R19096:19098 Coq.Init.Logic <> ::type_scope:x_'='_x not
+binder 19110:19115 <> contra:87
+R19126:19131 LF.ProofObjects <> contra:87 var
+def 19577:19595 Props ex_falso_quodlibet'
+binder 19606:19606 <> P:89
+R19614:19617 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R19609:19613 LF.ProofObjects Props False ind
+R19618:19618 LF.ProofObjects <> P:89 var
+binder 19687:19692 <> contra:90
+R19703:19708 LF.ProofObjects <> contra:90 var
+R19735:19739 LF.ProofObjects Props <> mod
+mod 19928:19937 <> MyEquality
+ind 19951:19952 MyEquality eq
+constr 19985:19991 MyEquality eq_refl
+binder 19955:19955 <> X:92
+R19966:19969 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R19971:19974 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+binder 20002:20002 <> x:95
+R20005:20006 LF.ProofObjects <> eq:93 ind
+R20010:20010 LF.ProofObjects <> x:95 var
+R20008:20008 LF.ProofObjects <> x:95 var
+R20036:20037 LF.ProofObjects MyEquality eq ind
+not 20023:20023 MyEquality ::type_scope:x_'=='_x
+prf 21230:21233 MyEquality four
+R21241:21244 LF.ProofObjects MyEquality ::type_scope:x_'=='_x not
+R21237:21239 LF.Basics <> ::nat_scope:x_'+'_x not
+R21246:21248 LF.Basics <> ::nat_scope:x_'+'_x not
+R21267:21273 LF.ProofObjects MyEquality eq_refl constr
+R21267:21273 LF.ProofObjects MyEquality eq_refl constr
+def 21700:21704 MyEquality four'
+R21713:21716 LF.ProofObjects MyEquality ::type_scope:x_'=='_x not
+R21709:21711 LF.Basics <> ::nat_scope:x_'+'_x not
+R21718:21720 LF.Basics <> ::nat_scope:x_'+'_x not
+R21728:21734 LF.ProofObjects MyEquality eq_refl constr
+def 21751:21759 MyEquality singleton
+binder 21771:21771 <> X:96
+R21782:21782 LF.ProofObjects <> X:96 var
+binder 21780:21780 <> x:97
+R21793:21796 LF.ProofObjects MyEquality ::type_scope:x_'=='_x not
+R21788:21789 LF.Poly <> :::x_'++'_x not
+R21786:21787 LF.Poly <> :::'['_']' not
+R21790:21790 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R21792:21792 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R21791:21791 LF.ProofObjects <> x:97 var
+R21798:21799 LF.Poly <> :::x_'::'_x not
+R21797:21797 LF.ProofObjects <> x:97 var
+R21800:21801 LF.Poly <> :::'['_']' not
+binder 21814:21814 <> X:98
+R21825:21825 LF.ProofObjects <> X:98 var
+binder 21823:21823 <> x:99
+R21831:21837 LF.ProofObjects MyEquality eq_refl constr
+R21839:21839 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R21841:21841 LF.Poly <> :::'['_x_';'_'..'_';'_x_']' not
+R21840:21840 LF.ProofObjects <> x:99 var
+prf 22121:22146 MyEquality equality__leibniz_equality
+binder 22158:22158 <> X:100
+R22174:22174 LF.ProofObjects <> X:100 var
+binder 22169:22169 <> x:101
+binder 22171:22171 <> y:102
+R22186:22189 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R22181:22184 LF.ProofObjects MyEquality ::type_scope:x_'=='_x not
+R22180:22180 LF.ProofObjects <> x:101 var
+R22185:22185 LF.ProofObjects <> y:102 var
+R22200:22201 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R22199:22199 LF.ProofObjects <> X:100 var
+binder 22197:22197 <> P:103
+R22211:22214 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R22208:22208 LF.ProofObjects <> P:103 var
+R22210:22210 LF.ProofObjects <> x:101 var
+R22215:22215 LF.ProofObjects <> P:103 var
+R22217:22217 LF.ProofObjects <> y:102 var
+prf 22638:22663 MyEquality leibniz_equality__equality
+binder 22675:22675 <> X:104
+R22691:22691 LF.ProofObjects <> X:104 var
+binder 22686:22686 <> x:105
+binder 22688:22688 <> y:106
+R22697:22697 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R22726:22730 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R22708:22709 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R22707:22707 LF.ProofObjects <> X:104 var
+binder 22705:22705 <> P:107
+R22719:22722 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R22716:22716 LF.ProofObjects <> P:107 var
+R22718:22718 LF.ProofObjects <> x:105 var
+R22723:22723 LF.ProofObjects <> P:107 var
+R22725:22725 LF.ProofObjects <> y:106 var
+R22732:22735 LF.ProofObjects MyEquality ::type_scope:x_'=='_x not
+R22731:22731 LF.ProofObjects <> x:105 var
+R22736:22736 LF.ProofObjects <> y:106 var
+binder 22803:22803 <> z:108
+R22809:22811 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R22808:22808 LF.ProofObjects <> z:108 var
+binder 22803:22803 <> z:109
+R22809:22811 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R22808:22808 LF.ProofObjects <> z:109 var
+R22843:22845 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R22843:22845 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R22903:22909 LF.ProofObjects MyEquality eq_refl constr
+R22903:22909 LF.ProofObjects MyEquality eq_refl constr
+R22936:22945 LF.ProofObjects MyEquality <> mod
+def 26828:26835 <> or_bogus
+binder 26846:26846 <> P:110
+binder 26848:26848 <> Q:111
+R26857:26860 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R26852:26855 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R26851:26851 LF.ProofObjects <> P:110 var
+R26856:26856 LF.ProofObjects <> Q:111 var
+R26861:26861 LF.ProofObjects <> P:110 var
+binder 26873:26873 <> P:112
+binder 26875:26875 <> Q:113
+R26891:26894 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R26890:26890 LF.ProofObjects <> P:112 var
+R26895:26895 LF.ProofObjects <> Q:113 var
+binder 26886:26886 <> A:114
+R26911:26911 LF.ProofObjects <> A:114 var
+R26924:26932 Coq.Init.Logic <> or_introl constr
+def 27428:27440 <> infinite_loop
+binder 27443:27443 <> X:116
+R27458:27460 Coq.Init.Datatypes <> nat ind
+binder 27454:27454 <> n:117
+R27476:27476 LF.ProofObjects <> X:116 var
+R27483:27495 LF.ProofObjects <> infinite_loop:118 def
+R27497:27497 LF.ProofObjects <> n:117 var
+def 27516:27520 <> falso
+R27524:27528 Coq.Init.Logic <> False ind
